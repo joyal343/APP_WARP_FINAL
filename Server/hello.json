@@ -1,0 +1,16 @@
+{
+    "CleanUpTime": 36000000,
+    "TickTime": 1000,
+    "SSLEnable": false,
+    "MasterHost": "",
+    "SSLListenPort": 12347,
+    "SSLKeyPath": "",
+    "LogLevel": "WARN",
+    "ListenPort": 3000,
+    "LICENSE_KEY": "12345",
+    "AdminUsername": "admin",
+    "FlashPolicyPort": 843,
+    "HSQLDBFile": "hsql://localhost/testdb",
+    "AdminPassword": "12345",
+    "SSLKeyPhrase": ""
+}

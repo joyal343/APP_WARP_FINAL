@@ -1,0 +1,43 @@
+2024-06-12 14:06:14,005 - WARNING: exceptionCaught cause Connection reset remote /127.0.0.1:50698
+2024-06-12 14:06:44,783 - WARNING: exceptionCaught cause Connection reset remote /127.0.0.1:50717
+2024-06-12 14:08:37,592 - WARNING: exceptionCaught cause Connection reset remote /127.0.0.1:50793
+2024-06-12 14:13:57,792 - WARNING: exceptionCaught cause Connection reset remote /127.0.0.1:51019
+2024-06-12 14:14:21,301 - WARNING: exceptionCaught cause Connection reset remote /127.0.0.1:51030
+2024-06-12 14:18:50,042 - WARNING: exceptionCaught cause Connection reset remote /127.0.0.1:51178
+2024-06-12 16:17:20,423 - WARNING: exceptionCaught cause Connection reset remote /127.0.0.1:54973
+2024-06-12 16:48:27,411 - WARNING: closing idle session /127.0.0.1:55969
+2024-06-13 00:57:18,988 - WARNING: closing idle session /127.0.0.1:64385
+2024-06-13 01:03:44,269 - WARNING: closing idle session /127.0.0.1:64572
+2024-06-13 04:34:42,836 - WARNING: closing idle session /127.0.0.1:56987
+2024-06-13 05:33:29,072 - WARNING: closing idle session /127.0.0.1:59987
+2024-06-13 06:30:03,800 - WARNING: closing idle session /127.0.0.1:61736
+2024-06-13 06:30:39,909 - WARNING: closing idle session /127.0.0.1:61754
+2024-06-13 06:30:53,201 - WARNING: closing idle session /127.0.0.1:61762
+2024-06-13 06:33:14,197 - WARNING: closing idle session /127.0.0.1:61829
+2024-06-13 06:33:15,708 - WARNING: Ghost Room id= 1274788035
+2024-06-13 06:49:23,348 - WARNING: closing idle session /127.0.0.1:62292
+2024-06-13 06:50:37,546 - WARNING: closing idle session /127.0.0.1:62327
+2024-06-13 06:52:19,342 - WARNING: closing idle session /127.0.0.1:62377
+2024-06-13 06:56:06,303 - WARNING: closing idle session /127.0.0.1:62481
+2024-06-13 06:56:53,303 - WARNING: closing idle session /127.0.0.1:62505
+2024-06-13 07:07:19,046 - WARNING: closing idle session /127.0.0.1:62818
+2024-06-13 07:07:36,328 - WARNING: closing idle session /127.0.0.1:62828
+2024-06-13 07:18:59,011 - WARNING: closing idle session /127.0.0.1:63280
+2024-06-13 07:27:37,823 - WARNING: closing idle session /127.0.0.1:63685
+2024-06-13 07:48:18,561 - WARNING: closing idle session /127.0.0.1:64269
+2024-06-13 07:49:23,809 - WARNING: Ghost Room id= 96988153
+2024-06-13 07:49:39,978 - WARNING: closing idle session /127.0.0.1:64354
+2024-06-13 07:50:58,547 - WARNING: Ghost Room id= 154616153
+2024-06-13 07:51:14,328 - WARNING: closing idle session /127.0.0.1:64450
+2024-06-13 07:53:24,934 - WARNING: closing idle session /127.0.0.1:64565
+2024-06-13 08:12:01,503 - WARNING: closing idle session /127.0.0.1:65471
+2024-06-13 08:14:24,424 - WARNING: closing idle session /127.0.0.1:49179
+2024-06-13 10:15:39,269 - WARNING: closing idle session /127.0.0.1:54788
+2024-06-13 10:17:47,710 - WARNING: closing idle session /127.0.0.1:54888
+2024-06-13 13:50:36,115 - WARNING: closing idle session /127.0.0.1:51633
+2024-06-13 13:54:23,313 - WARNING: closing idle session /127.0.0.1:51698
+2024-06-14 09:57:36,876 - WARNING: exceptionCaught cause Connection reset remote /127.0.0.1:52859
+2024-06-14 09:58:07,953 - WARNING: exceptionCaught cause Connection reset remote /127.0.0.1:52863
+2024-06-14 10:00:51,771 - WARNING: closing idle session /127.0.0.1:52875
+2024-06-14 10:03:13,088 - WARNING: exceptionCaught cause Connection reset remote /127.0.0.1:52877
+2024-06-14 10:10:30,081 - WARNING: closing idle session /127.0.0.1:52977

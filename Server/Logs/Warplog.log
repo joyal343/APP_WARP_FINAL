@@ -1,0 +1,1128 @@
+2024-06-11 17:43:44,293 - WARNING: Error in loading license from server java.lang.Exception: no license key in AppConfig.json
+2024-06-11 17:43:44,323 - WARNING: Running with 100 CCU limit
+2024-06-11 17:43:44,568 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-11 17:43:44,568 - ERROR: Error in getAllZonesFromHSQLDB java.lang.NullPointerException: Cannot invoke "java.sql.Statement.executeQuery(String)" because "statement" is null
+2024-06-11 17:44:52,728 - WARNING: Error in loading license from server java.lang.Exception: no license key in AppConfig.json
+2024-06-11 17:44:52,768 - WARNING: Running with 100 CCU limit
+2024-06-11 17:44:52,891 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-11 17:44:52,891 - ERROR: Error in getAllZonesFromHSQLDB java.lang.NullPointerException: Cannot invoke "java.sql.Statement.executeQuery(String)" because "statement" is null
+2024-06-11 17:54:25,890 - WARNING: Error in loading license from server java.lang.Exception: no license key in AppConfig.json
+2024-06-11 17:54:25,910 - WARNING: Running with 100 CCU limit
+2024-06-11 17:54:26,041 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-11 17:54:26,043 - ERROR: Error in getAllZonesFromHSQLDB java.lang.NullPointerException: Cannot invoke "java.sql.Statement.executeQuery(String)" because "statement" is null
+2024-06-11 17:55:17,565 - WARNING: Error in loading license from server java.lang.Exception: no license key in AppConfig.json
+2024-06-11 17:55:17,578 - WARNING: Running with 100 CCU limit
+2024-06-11 17:55:17,871 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-11 17:55:17,871 - ERROR: Error in getAllZonesFromHSQLDB java.lang.NullPointerException: Cannot invoke "java.sql.Statement.executeQuery(String)" because "statement" is null
+2024-06-11 17:56:56,418 - WARNING: Error in loading license from server java.lang.Exception: no license key in AppConfig.json
+2024-06-11 17:56:56,436 - WARNING: Running with 100 CCU limit
+2024-06-11 17:56:56,561 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-11 17:56:56,569 - ERROR: Error in getAllZonesFromHSQLDB java.lang.NullPointerException: Cannot invoke "java.sql.Statement.executeQuery(String)" because "statement" is null
+2024-06-11 17:56:58,355 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-11 17:56:58,356 - WARNING: Error in createHSQLServiceTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-11 17:56:58,356 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-11 17:56:58,356 - WARNING: Error in createHSQLMteringTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-11 17:56:58,356 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-11 17:56:58,356 - WARNING: Error in createHSQLRoomTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-11 18:06:19,833 - WARNING: Error in loading license from server java.lang.Exception: no license key in AppConfig.json
+2024-06-11 18:06:19,843 - WARNING: Running with 100 CCU limit
+2024-06-11 18:06:19,986 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-11 18:06:19,986 - ERROR: Error in getAllZonesFromHSQLDB java.lang.NullPointerException: Cannot invoke "java.sql.Statement.executeQuery(String)" because "statement" is null
+2024-06-11 18:06:21,524 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-11 18:06:21,525 - WARNING: Error in createHSQLServiceTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-11 18:06:21,525 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-11 18:06:21,525 - WARNING: Error in createHSQLMteringTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-11 18:06:21,525 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-11 18:06:21,525 - WARNING: Error in createHSQLRoomTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-11 18:06:28,850 - WARNING: Error in loading license from server java.lang.Exception: no license key in AppConfig.json
+2024-06-11 18:06:28,860 - WARNING: Running with 100 CCU limit
+2024-06-11 18:06:28,992 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-11 18:06:28,992 - ERROR: Error in getAllZonesFromHSQLDB java.lang.NullPointerException: Cannot invoke "java.sql.Statement.executeQuery(String)" because "statement" is null
+2024-06-11 18:06:30,276 - ERROR: Error in starting TCP server java.net.BindException: Address already in use: bind
+2024-06-11 18:06:30,456 - ERROR: Error in starting FlashPolicyServer java.net.BindException: Address already in use: bind
+2024-06-11 18:06:30,456 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-11 18:06:30,458 - WARNING: Error in createHSQLServiceTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-11 18:06:30,458 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-11 18:06:30,458 - WARNING: Error in createHSQLMteringTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-11 18:06:30,458 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-11 18:06:30,458 - WARNING: Error in createHSQLRoomTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-11 19:21:30,580 - WARNING: Error in loading license from server java.lang.Exception: no license key in AppConfig.json
+2024-06-11 19:21:30,580 - WARNING: Running with 100 CCU limit
+2024-06-11 19:21:30,738 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-11 19:21:30,738 - ERROR: Error in getAllZonesFromHSQLDB java.lang.NullPointerException: Cannot invoke "java.sql.Statement.executeQuery(String)" because "statement" is null
+2024-06-11 19:21:32,184 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-11 19:21:32,184 - WARNING: Error in createHSQLServiceTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-11 19:21:32,184 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-11 19:21:32,184 - WARNING: Error in createHSQLMteringTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-11 19:21:32,184 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-11 19:21:32,184 - WARNING: Error in createHSQLRoomTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-12 09:43:25,302 - WARNING: Error in loading license from server java.lang.Exception: no license key in AppConfig.json
+2024-06-12 09:43:25,302 - WARNING: Running with 100 CCU limit
+2024-06-12 09:43:25,442 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-12 09:43:25,442 - ERROR: Error in getAllZonesFromHSQLDB java.lang.NullPointerException: Cannot invoke "java.sql.Statement.executeQuery(String)" because "statement" is null
+2024-06-12 09:43:26,893 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-12 09:43:26,893 - WARNING: Error in createHSQLServiceTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-12 09:43:26,893 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-12 09:43:26,893 - WARNING: Error in createHSQLMteringTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-12 09:43:26,893 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-12 09:43:26,893 - WARNING: Error in createHSQLRoomTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-12 09:44:44,051 - WARNING: Error in loading license from server java.lang.Exception: no license key in AppConfig.json
+2024-06-12 09:44:44,067 - WARNING: Running with 100 CCU limit
+2024-06-12 09:44:44,192 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-12 09:44:44,192 - ERROR: Error in getAllZonesFromHSQLDB java.lang.NullPointerException: Cannot invoke "java.sql.Statement.executeQuery(String)" because "statement" is null
+2024-06-12 09:44:45,651 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-12 09:44:45,651 - WARNING: Error in createHSQLServiceTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-12 09:44:45,651 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-12 09:44:45,651 - WARNING: Error in createHSQLMteringTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-12 09:44:45,651 - ERROR: Error in getStatement java.sql.SQLException: Invalid argument in JDBC call
+2024-06-12 09:44:45,651 - WARNING: Error in createHSQLRoomTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-12 10:20:04,646 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-12 10:20:04,665 - WARNING: Running with 100 CCU limit
+2024-06-12 10:20:05,697 - ERROR: Error in getAllZonesFromHSQLDB java.sql.SQLSyntaxErrorException: user lacks privilege or object not found: SERVICE
+2024-06-12 10:25:46,529 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-12 10:25:46,539 - WARNING: Running with 100 CCU limit
+2024-06-12 10:30:41,533 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-12 10:30:41,545 - WARNING: Running with 100 CCU limit
+2024-06-12 10:32:19,736 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-12 10:32:19,757 - WARNING: Running with 100 CCU limit
+2024-06-12 10:35:18,725 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-12 10:35:18,755 - WARNING: Running with 100 CCU limit
+2024-06-12 10:36:49,151 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-12 10:36:49,161 - WARNING: Running with 100 CCU limit
+2024-06-12 10:42:45,382 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-12 10:42:45,411 - WARNING: Running with 100 CCU limit
+2024-06-12 11:04:29,173 - WARNING: URL:http://control.appwarp.shephertz.com:8080/policy?key=12345
+2024-06-12 11:04:51,456 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-12 11:04:51,468 - WARNING: Running with 100 CCU limit
+2024-06-12 11:09:18,780 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-12 11:09:18,795 - WARNING: Running with 100 CCU limit
+2024-06-12 11:22:00,502 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-12 11:22:00,545 - WARNING: Running with 100 CCU limit
+2024-06-12 11:23:14,256 - ERROR: Error in getAllRoomsFromHSQLDB java.sql.SQLSyntaxErrorException: user lacks privilege or object not found: ROOM
+2024-06-12 11:25:21,768 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-12 11:25:21,768 - WARNING: Running with 100 CCU limit
+2024-06-12 11:43:36,793 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-12 11:43:36,802 - WARNING: Running with 100 CCU limit
+2024-06-12 11:43:54,571 - WARNING: closing unknown idle session /[0:0:0:0:0:0:0:1]:53821
+2024-06-12 11:43:54,590 - WARNING: closing unknown idle session /[0:0:0:0:0:0:0:1]:53822
+2024-06-12 11:44:04,940 - WARNING: closing unknown idle session /[0:0:0:0:0:0:0:1]:53847
+2024-06-12 11:44:16,036 - WARNING: closing unknown idle session /[0:0:0:0:0:0:0:1]:53853
+2024-06-12 11:44:16,039 - WARNING: closing unknown idle session /[0:0:0:0:0:0:0:1]:53854
+2024-06-12 11:44:31,422 - WARNING: closing unknown idle session /[0:0:0:0:0:0:0:1]:53864
+2024-06-12 11:44:31,422 - WARNING: closing unknown idle session /[0:0:0:0:0:0:0:1]:53865
+2024-06-12 11:44:41,444 - WARNING: closing unknown idle session /[0:0:0:0:0:0:0:1]:53874
+2024-06-12 11:53:36,815 - WARNING: URL:http://control.appwarp.shephertz.com:8080/policy?key=12345
+2024-06-12 11:53:37,613 - WARNING: responseCode:404
+2024-06-12 11:53:38,005 - WARNING: Error Response:{"error_reason":"license with given key not found","error_code":404}
+2024-06-12 12:32:10,480 - WARNING: closing unknown idle session /[0:0:0:0:0:0:0:1]:55860
+2024-06-12 12:32:10,483 - WARNING: closing unknown idle session /[0:0:0:0:0:0:0:1]:55861
+2024-06-12 12:32:21,578 - WARNING: closing unknown idle session /[0:0:0:0:0:0:0:1]:55862
+2024-06-12 12:32:33,003 - WARNING: closing unknown idle session /[0:0:0:0:0:0:0:1]:55873
+2024-06-12 12:32:43,021 - WARNING: closing unknown idle session /[0:0:0:0:0:0:0:1]:55872
+2024-06-12 12:32:53,081 - WARNING: closing unknown idle session /[0:0:0:0:0:0:0:1]:55915
+2024-06-12 12:33:08,161 - WARNING: closing unknown idle session /[0:0:0:0:0:0:0:1]:55928
+2024-06-12 12:33:08,161 - WARNING: closing unknown idle session /[0:0:0:0:0:0:0:1]:55929
+2024-06-12 12:33:19,363 - WARNING: closing unknown idle session /[0:0:0:0:0:0:0:1]:55931
+2024-06-12 13:21:18,336 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-12 13:21:18,351 - WARNING: Running with 100 CCU limit
+2024-06-12 13:59:03,871 - WARNING: URL:http://control.appwarp.shephertz.com:8080/policy?key=12345
+2024-06-12 13:59:04,638 - WARNING: responseCode:404
+2024-06-12 13:59:05,695 - WARNING: Error Response:{"error_reason":"license with given key not found","error_code":404}
+2024-06-12 14:08:07,142 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-12 14:08:07,163 - WARNING: Running with 100 CCU limit
+2024-06-12 14:18:20,837 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-12 14:18:20,869 - WARNING: Running with 100 CCU limit
+2024-06-12 14:28:20,870 - WARNING: URL:http://control.appwarp.shephertz.com:8080/policy?key=12345
+2024-06-12 14:28:21,759 - WARNING: responseCode:404
+2024-06-12 14:28:22,052 - WARNING: Error Response:{"error_reason":"license with given key not found","error_code":404}
+2024-06-12 16:16:13,147 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-12 16:16:13,163 - WARNING: Running with 100 CCU limit
+2024-06-12 16:16:53,301 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-12 16:16:53,317 - WARNING: Running with 100 CCU limit
+2024-06-12 16:26:53,331 - WARNING: URL:http://control.appwarp.shephertz.com:8080/policy?key=12345
+2024-06-12 16:26:54,380 - WARNING: responseCode:404
+2024-06-12 16:26:54,645 - WARNING: Error Response:{"error_reason":"license with given key not found","error_code":404}
+2024-06-12 16:48:06,509 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-12 16:48:06,541 - WARNING: Running with 100 CCU limit
+2024-06-12 16:58:06,668 - WARNING: URL:http://control.appwarp.shephertz.com:8080/policy?key=12345
+2024-06-12 16:58:07,877 - WARNING: responseCode:404
+2024-06-12 16:58:09,362 - WARNING: Error Response:{"error_reason":"license with given key not found","error_code":404}
+2024-06-12 17:49:51,369 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-12 17:49:51,385 - WARNING: Running with 100 CCU limit
+2024-06-12 17:59:51,399 - WARNING: URL:http://control.appwarp.shephertz.com:8080/policy?key=12345
+2024-06-12 17:59:52,670 - WARNING: responseCode:404
+2024-06-12 17:59:53,189 - WARNING: Error Response:{"error_reason":"license with given key not found","error_code":404}
+2024-06-12 22:29:37,292 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-12 22:29:37,313 - WARNING: Running with 100 CCU limit
+2024-06-12 22:29:38,486 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-12 22:29:38,487 - ERROR: Error in getAllZonesFromHSQLDB java.lang.NullPointerException: Cannot invoke "java.sql.Statement.executeQuery(String)" because "statement" is null
+2024-06-12 22:29:42,221 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-12 22:29:42,222 - WARNING: Error in createHSQLServiceTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-12 22:29:42,224 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-12 22:29:42,224 - WARNING: Error in createHSQLMteringTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-12 22:29:42,226 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-12 22:29:42,226 - WARNING: Error in createHSQLRoomTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-12 22:39:37,616 - WARNING: URL:http://control.appwarp.shephertz.com:8080/policy?key=12345
+2024-06-12 22:39:38,131 - WARNING: responseCode:404
+2024-06-12 22:39:38,778 - WARNING: Error Response:{"error_reason":"license with given key not found","error_code":404}
+2024-06-12 22:51:05,360 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-12 22:58:32,739 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-12 22:58:32,748 - WARNING: exceptionCaught cause null remote /127.0.0.1:60357
+2024-06-12 23:00:43,062 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-12 23:00:43,088 - WARNING: exceptionCaught cause null remote /127.0.0.1:60421
+2024-06-12 23:00:44,860 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:05:33,518 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 00:05:33,533 - WARNING: Running with 100 CCU limit
+2024-06-13 00:05:34,029 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-13 00:05:34,029 - ERROR: Error in getAllZonesFromHSQLDB java.lang.NullPointerException: Cannot invoke "java.sql.Statement.executeQuery(String)" because "statement" is null
+2024-06-13 00:05:37,836 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-13 00:05:37,838 - WARNING: Error in createHSQLServiceTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-13 00:05:37,840 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-13 00:05:37,841 - WARNING: Error in createHSQLMteringTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-13 00:05:37,850 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-13 00:05:37,854 - WARNING: Error in createHSQLRoomTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-13 00:05:50,609 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 00:05:50,628 - WARNING: Running with 100 CCU limit
+2024-06-13 00:05:51,718 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-13 00:05:51,718 - ERROR: Error in getAllZonesFromHSQLDB java.lang.NullPointerException: Cannot invoke "java.sql.Statement.executeQuery(String)" because "statement" is null
+2024-06-13 00:05:54,587 - ERROR: Error in starting TCP server java.net.BindException: Address already in use: bind
+2024-06-13 00:05:54,770 - ERROR: Error in starting FlashPolicyServer java.net.BindException: Address already in use: bind
+2024-06-13 00:05:54,773 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-13 00:05:54,773 - WARNING: Error in createHSQLServiceTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-13 00:05:54,775 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-13 00:05:54,776 - WARNING: Error in createHSQLMteringTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-13 00:05:54,779 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-13 00:05:54,780 - WARNING: Error in createHSQLRoomTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-13 00:06:07,140 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 00:06:07,157 - WARNING: Running with 100 CCU limit
+2024-06-13 00:06:07,841 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-13 00:06:07,843 - ERROR: Error in getAllZonesFromHSQLDB java.lang.NullPointerException: Cannot invoke "java.sql.Statement.executeQuery(String)" because "statement" is null
+2024-06-13 00:06:10,035 - ERROR: Error in starting TCP server java.net.BindException: Address already in use: bind
+2024-06-13 00:06:10,252 - ERROR: Error in starting FlashPolicyServer java.net.BindException: Address already in use: bind
+2024-06-13 00:06:10,254 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-13 00:06:10,255 - WARNING: Error in createHSQLServiceTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-13 00:06:10,257 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-13 00:06:10,257 - WARNING: Error in createHSQLMteringTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-13 00:06:10,262 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-13 00:06:10,262 - WARNING: Error in createHSQLRoomTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-13 00:07:30,320 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:12:07,579 - WARNING: closing unknown idle session /127.0.0.1:62809
+2024-06-13 00:12:17,017 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:13:46,690 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:15:33,543 - WARNING: URL:http://control.appwarp.shephertz.com:8080/policy?key=12345
+2024-06-13 00:15:34,002 - WARNING: responseCode:404
+2024-06-13 00:15:34,377 - WARNING: Error Response:{"error_reason":"license with given key not found","error_code":404}
+2024-06-13 00:15:50,630 - WARNING: URL:http://control.appwarp.shephertz.com:8080/policy?key=12345
+2024-06-13 00:15:51,066 - WARNING: responseCode:404
+2024-06-13 00:15:51,329 - WARNING: Error Response:{"error_reason":"license with given key not found","error_code":404}
+2024-06-13 00:16:07,158 - WARNING: URL:http://control.appwarp.shephertz.com:8080/policy?key=12345
+2024-06-13 00:16:07,597 - WARNING: responseCode:404
+2024-06-13 00:16:07,865 - WARNING: Error Response:{"error_reason":"license with given key not found","error_code":404}
+2024-06-13 00:16:09,861 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:17:07,232 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 00:17:07,247 - WARNING: Running with 100 CCU limit
+2024-06-13 00:17:08,182 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-13 00:17:08,182 - ERROR: Error in getAllZonesFromHSQLDB java.lang.NullPointerException: Cannot invoke "java.sql.Statement.executeQuery(String)" because "statement" is null
+2024-06-13 00:17:11,086 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-13 00:17:11,087 - WARNING: Error in createHSQLServiceTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-13 00:17:11,090 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-13 00:17:11,090 - WARNING: Error in createHSQLMteringTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-13 00:17:11,092 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-13 00:17:11,094 - WARNING: Error in createHSQLRoomTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-13 00:17:28,179 - WARNING: closing unknown idle session /127.0.0.1:63085
+2024-06-13 00:18:13,022 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:18:20,361 - WARNING: closing unknown idle session /127.0.0.1:63115
+2024-06-13 00:18:53,110 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:19:55,407 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:23:10,924 - WARNING: closing unknown idle session /127.0.0.1:63253
+2024-06-13 00:24:56,000 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:25:57,238 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:25:57,243 - WARNING: exceptionCaught cause null remote /127.0.0.1:63341
+2024-06-13 00:26:42,579 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:26:48,178 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:27:07,248 - WARNING: URL:http://control.appwarp.shephertz.com:8080/policy?key=12345
+2024-06-13 00:27:07,709 - WARNING: responseCode:404
+2024-06-13 00:27:07,975 - WARNING: Error Response:{"error_reason":"license with given key not found","error_code":404}
+2024-06-13 00:27:53,025 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:30:16,593 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:33:36,859 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:34:43,764 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:37:46,044 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:39:05,203 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:41:27,737 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:42:03,186 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:42:45,988 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:42:56,077 - WARNING: closing unknown idle session /192.168.1.18:63425
+2024-06-13 00:43:23,416 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:46:34,482 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:46:34,487 - WARNING: exceptionCaught cause null remote /127.0.0.1:63996
+2024-06-13 00:46:38,787 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:46:38,799 - WARNING: exceptionCaught cause null remote /127.0.0.1:63999
+2024-06-13 00:46:40,018 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:46:50,635 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:46:52,115 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:47:33,979 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:47:37,663 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:48:08,728 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:49:14,779 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:49:14,821 - WARNING: exceptionCaught cause null remote /127.0.0.1:64089
+2024-06-13 00:49:16,308 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:49:16,310 - WARNING: exceptionCaught cause null remote /127.0.0.1:64091
+2024-06-13 00:49:17,541 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:50:47,645 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:50:47,653 - WARNING: exceptionCaught cause null remote /127.0.0.1:64135
+2024-06-13 00:50:49,137 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:50:49,153 - WARNING: exceptionCaught cause null remote /127.0.0.1:64137
+2024-06-13 00:50:51,274 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:50:55,735 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:51:24,686 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:55:47,317 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:55:47,387 - WARNING: exceptionCaught cause null remote /127.0.0.1:64306
+2024-06-13 00:55:49,555 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:55:58,072 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:55:58,075 - WARNING: exceptionCaught cause null remote /127.0.0.1:64314
+2024-06-13 00:55:59,600 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:56:01,600 - WARNING: Failed Auth. Zone for ab does not exist
+2024-06-13 00:56:35,803 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 00:56:35,819 - WARNING: Running with 100 CCU limit
+2024-06-13 00:57:03,772 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 00:57:03,788 - WARNING: Running with 100 CCU limit
+2024-06-13 04:24:10,500 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 04:24:10,500 - WARNING: Running with 100 CCU limit
+2024-06-13 04:24:10,774 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-13 04:24:10,774 - ERROR: Error in getAllZonesFromHSQLDB java.lang.NullPointerException: Cannot invoke "java.sql.Statement.executeQuery(String)" because "statement" is null
+2024-06-13 04:24:12,213 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-13 04:24:12,214 - WARNING: Error in createHSQLServiceTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-13 04:24:12,216 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-13 04:24:12,216 - WARNING: Error in createHSQLMteringTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-13 04:24:12,218 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-13 04:24:12,218 - WARNING: Error in createHSQLRoomTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-13 04:34:24,977 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 04:34:24,992 - WARNING: Running with 100 CCU limit
+2024-06-13 05:18:19,584 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 05:18:19,600 - WARNING: Running with 100 CCU limit
+2024-06-13 05:18:31,643 - WARNING: Adaptor rejected j
+2024-06-13 05:18:33,949 - WARNING: Adaptor rejected j
+2024-06-13 05:19:02,064 - WARNING: Adaptor rejected j
+2024-06-13 05:19:03,620 - WARNING: Adaptor rejected j
+2024-06-13 05:19:04,906 - WARNING: Adaptor rejected j
+2024-06-13 05:19:06,238 - WARNING: Adaptor rejected j
+2024-06-13 05:19:07,679 - WARNING: Adaptor rejected j
+2024-06-13 05:19:08,813 - WARNING: Adaptor rejected j
+2024-06-13 05:19:10,070 - WARNING: Adaptor rejected j
+2024-06-13 05:25:31,782 - WARNING: Adaptor rejected j
+2024-06-13 05:25:33,613 - WARNING: Adaptor rejected j
+2024-06-13 05:25:55,000 - WARNING: Adaptor rejected j
+2024-06-13 05:25:56,267 - WARNING: Adaptor rejected j
+2024-06-13 05:25:57,515 - WARNING: Adaptor rejected j
+2024-06-13 05:25:59,058 - WARNING: Adaptor rejected j
+2024-06-13 05:26:00,375 - WARNING: Adaptor rejected j
+2024-06-13 05:26:01,742 - WARNING: Adaptor rejected j
+2024-06-13 05:26:46,146 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 05:26:46,146 - WARNING: Running with 100 CCU limit
+2024-06-13 05:26:55,700 - WARNING: Adaptor rejected j
+2024-06-13 05:26:55,705 - WARNING: exceptionCaught cause null remote /127.0.0.1:59412
+2024-06-13 05:33:15,275 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 05:33:15,291 - WARNING: Running with 100 CCU limit
+2024-06-13 05:43:15,295 - WARNING: URL:http://control.appwarp.shephertz.com:8080/policy?key=12345
+2024-06-13 05:43:15,746 - WARNING: responseCode:404
+2024-06-13 05:43:15,998 - WARNING: Error Response:{"error_reason":"license with given key not found","error_code":404}
+2024-06-13 06:29:57,725 - ERROR: Session Id expected 1287244675
+2024-06-13 06:30:33,901 - ERROR: Session Id expected 1445043635
+2024-06-13 06:30:46,931 - ERROR: Session Id expected 1268854726
+2024-06-13 06:33:08,193 - ERROR: Session Id expected 1452232479
+2024-06-13 06:49:17,145 - ERROR: Session Id expected 1608508029
+2024-06-13 06:50:31,485 - ERROR: Session Id expected 1285173038
+2024-06-13 06:52:13,334 - ERROR: Session Id expected 224059632
+2024-06-13 06:55:59,970 - ERROR: Session Id expected 1496922832
+2024-06-13 06:56:47,119 - ERROR: Session Id expected 1522109762
+2024-06-13 07:27:18,504 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 07:27:18,520 - WARNING: Running with 100 CCU limit
+2024-06-13 07:27:18,994 - ERROR: Error in getHashMapFromProperties org.json.JSONException: A JSONObject text must begin with '{' at character 1 of props
+2024-06-13 07:27:19,010 - ERROR: Error in getHashMapFromProperties org.json.JSONException: A JSONObject text must begin with '{' at character 1 of props
+2024-06-13 07:37:18,527 - WARNING: URL:http://control.appwarp.shephertz.com:8080/policy?key=12345
+2024-06-13 07:37:18,986 - WARNING: responseCode:404
+2024-06-13 07:37:19,263 - WARNING: Error Response:{"error_reason":"license with given key not found","error_code":404}
+2024-06-13 07:47:57,942 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 07:47:57,958 - WARNING: Running with 100 CCU limit
+2024-06-13 07:49:22,740 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 07:49:22,802 - WARNING: Running with 100 CCU limit
+2024-06-13 07:50:33,763 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 07:50:33,779 - WARNING: Running with 100 CCU limit
+2024-06-13 07:50:58,199 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 07:50:58,199 - WARNING: Running with 100 CCU limit
+2024-06-13 07:53:11,534 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 07:53:11,550 - WARNING: Running with 100 CCU limit
+2024-06-13 08:03:11,551 - WARNING: URL:http://control.appwarp.shephertz.com:8080/policy?key=12345
+2024-06-13 08:03:12,056 - WARNING: responseCode:404
+2024-06-13 08:03:12,326 - WARNING: Error Response:{"error_reason":"license with given key not found","error_code":404}
+2024-06-13 08:11:29,599 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 08:11:29,599 - WARNING: Running with 100 CCU limit
+2024-06-13 08:12:26,342 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 08:12:26,342 - WARNING: Running with 100 CCU limit
+2024-06-13 08:12:31,301 - ERROR: Error in starting UDPServer java.lang.IllegalStateException: Shutdown in progress
+2024-06-13 08:14:10,674 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 08:14:10,674 - WARNING: Running with 100 CCU limit
+2024-06-13 08:24:10,889 - WARNING: URL:http://control.appwarp.shephertz.com:8080/policy?key=12345
+2024-06-13 08:24:11,352 - WARNING: responseCode:404
+2024-06-13 08:24:14,300 - WARNING: Error Response:{"error_reason":"license with given key not found","error_code":404}
+2024-06-13 09:53:44,031 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 09:53:44,047 - WARNING: Running with 100 CCU limit
+2024-06-13 10:03:44,058 - WARNING: URL:http://control.appwarp.shephertz.com:8080/policy?key=12345
+2024-06-13 10:03:48,033 - WARNING: responseCode:404
+2024-06-13 10:03:48,331 - WARNING: Error Response:{"error_reason":"license with given key not found","error_code":404}
+2024-06-13 10:12:59,729 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 10:12:59,729 - WARNING: Running with 100 CCU limit
+2024-06-13 13:22:05,787 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 13:22:05,804 - WARNING: Running with 100 CCU limit
+2024-06-13 13:26:09,266 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 13:26:09,308 - WARNING: Running with 100 CCU limit
+2024-06-13 13:48:05,829 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 13:48:05,842 - WARNING: Running with 100 CCU limit
+2024-06-13 13:48:15,227 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 13:48:15,238 - WARNING: Running with 100 CCU limit
+2024-06-13 13:48:17,018 - ERROR: Error in starting TCP server java.net.BindException: Address already in use: bind
+2024-06-13 13:48:17,373 - ERROR: Error in starting FlashPolicyServer java.net.BindException: Address already in use: bind
+2024-06-13 13:50:07,234 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 13:50:07,252 - WARNING: Running with 100 CCU limit
+2024-06-13 13:53:41,944 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 13:53:41,962 - WARNING: Running with 100 CCU limit
+2024-06-13 14:14:47,999 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 14:14:48,007 - WARNING: Running with 100 CCU limit
+2024-06-13 14:16:54,174 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 14:16:54,174 - WARNING: Running with 100 CCU limit
+2024-06-13 14:19:37,551 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 14:19:37,551 - WARNING: Running with 100 CCU limit
+2024-06-13 14:19:37,902 - ERROR: Error in getAllZonesFromHSQLDB java.sql.SQLSyntaxErrorException: user lacks privilege or object not found: SERVICE
+2024-06-13 14:21:30,542 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 14:21:30,549 - WARNING: Running with 100 CCU limit
+2024-06-13 14:45:46,700 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 14:45:46,706 - WARNING: Running with 100 CCU limit
+2024-06-13 14:45:46,911 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-13 14:45:46,912 - ERROR: Error in getAllZonesFromHSQLDB java.lang.NullPointerException: Cannot invoke "java.sql.Statement.executeQuery(String)" because "statement" is null
+2024-06-13 14:45:48,131 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-13 14:45:48,132 - WARNING: Error in createHSQLServiceTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-13 14:45:48,134 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-13 14:45:48,134 - WARNING: Error in createHSQLMteringTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-13 14:45:48,136 - ERROR: Error in getStatement java.sql.SQLTransientConnectionException: java.net.ConnectException: Connection refused: connect
+2024-06-13 14:45:48,136 - WARNING: Error in createHSQLRoomTable java.lang.NullPointerException: Cannot invoke "java.sql.Statement.execute(String)" because "s" is null
+2024-06-13 15:57:59,593 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 15:57:59,606 - WARNING: Running with 100 CCU limit
+2024-06-13 15:59:41,013 - WARNING: closing unknown idle session /192.168.3.83:64578
+2024-06-13 16:01:07,190 - WARNING: closing unknown idle session /192.168.3.83:64605
+2024-06-13 16:01:07,191 - WARNING: closing unknown idle session /192.168.3.83:64599
+2024-06-13 16:01:07,192 - WARNING: closing unknown idle session /192.168.3.83:64596
+2024-06-13 16:01:07,193 - WARNING: closing unknown idle session /192.168.3.83:64602
+2024-06-13 16:01:07,199 - WARNING: closing unknown idle session /192.168.3.83:64600
+2024-06-13 16:01:07,200 - WARNING: closing unknown idle session /192.168.3.83:64603
+2024-06-13 16:01:07,200 - WARNING: closing unknown idle session /192.168.3.83:64598
+2024-06-13 16:01:07,208 - WARNING: closing unknown idle session /192.168.3.83:64604
+2024-06-13 16:01:07,209 - WARNING: closing unknown idle session /192.168.3.83:64601
+2024-06-13 16:01:07,210 - WARNING: closing unknown idle session /192.168.3.83:64597
+2024-06-13 16:01:17,584 - WARNING: closing unknown idle session /192.168.3.83:64615
+2024-06-13 16:01:17,585 - WARNING: closing unknown idle session /192.168.3.83:64611
+2024-06-13 16:01:17,586 - WARNING: closing unknown idle session /192.168.3.83:64612
+2024-06-13 16:01:17,591 - WARNING: closing unknown idle session /192.168.3.83:64617
+2024-06-13 16:01:17,592 - WARNING: closing unknown idle session /192.168.3.83:64608
+2024-06-13 16:01:17,592 - WARNING: closing unknown idle session /192.168.3.83:64614
+2024-06-13 16:01:17,593 - WARNING: closing unknown idle session /192.168.3.83:64610
+2024-06-13 16:01:17,597 - WARNING: closing unknown idle session /192.168.3.83:64616
+2024-06-13 16:01:17,598 - WARNING: closing unknown idle session /192.168.3.83:64613
+2024-06-13 16:01:17,598 - WARNING: closing unknown idle session /192.168.3.83:64609
+2024-06-13 16:01:27,727 - WARNING: closing unknown idle session /192.168.3.83:64623
+2024-06-13 16:01:27,728 - WARNING: closing unknown idle session /192.168.3.83:64620
+2024-06-13 16:01:27,728 - WARNING: closing unknown idle session /192.168.3.83:64626
+2024-06-13 16:01:27,737 - WARNING: closing unknown idle session /192.168.3.83:64621
+2024-06-13 16:01:27,738 - WARNING: closing unknown idle session /192.168.3.83:64627
+2024-06-13 16:01:27,738 - WARNING: closing unknown idle session /192.168.3.83:64619
+2024-06-13 16:01:27,738 - WARNING: closing unknown idle session /192.168.3.83:64618
+2024-06-13 16:01:27,738 - WARNING: closing unknown idle session /192.168.3.83:64622
+2024-06-13 16:01:27,738 - WARNING: closing unknown idle session /192.168.3.83:64624
+2024-06-13 16:01:27,738 - WARNING: closing unknown idle session /192.168.3.83:64625
+2024-06-13 16:02:29,529 - WARNING: closing unknown idle session /192.168.3.83:64682
+2024-06-13 16:02:29,529 - WARNING: closing unknown idle session /192.168.3.83:64687
+2024-06-13 16:02:29,531 - WARNING: closing unknown idle session /192.168.3.83:64729
+2024-06-13 16:02:29,532 - WARNING: closing unknown idle session /192.168.3.83:64646
+2024-06-13 16:02:29,534 - WARNING: closing unknown idle session /192.168.3.83:64639
+2024-06-13 16:02:29,535 - WARNING: closing unknown idle session /192.168.3.83:64644
+2024-06-13 16:02:29,536 - WARNING: closing unknown idle session /192.168.3.83:64666
+2024-06-13 16:02:29,537 - WARNING: closing unknown idle session /192.168.3.83:64717
+2024-06-13 16:02:29,537 - WARNING: closing unknown idle session /192.168.3.83:64684
+2024-06-13 16:02:29,537 - WARNING: closing unknown idle session /192.168.3.83:64649
+2024-06-13 16:02:29,537 - WARNING: closing unknown idle session /192.168.3.83:64708
+2024-06-13 16:02:29,538 - WARNING: closing unknown idle session /192.168.3.83:64693
+2024-06-13 16:02:29,539 - WARNING: closing unknown idle session /192.168.3.83:64663
+2024-06-13 16:02:29,540 - WARNING: closing unknown idle session /192.168.3.83:64669
+2024-06-13 16:02:29,540 - WARNING: closing unknown idle session /192.168.3.83:64641
+2024-06-13 16:02:29,540 - WARNING: closing unknown idle session /192.168.3.83:64696
+2024-06-13 16:02:29,542 - WARNING: closing unknown idle session /192.168.3.83:64705
+2024-06-13 16:02:29,543 - WARNING: closing unknown idle session /192.168.3.83:64675
+2024-06-13 16:02:29,544 - WARNING: closing unknown idle session /192.168.3.83:64723
+2024-06-13 16:02:29,566 - WARNING: closing unknown idle session /192.168.3.83:64699
+2024-06-13 16:02:29,567 - WARNING: closing unknown idle session /192.168.3.83:64654
+2024-06-13 16:02:29,568 - WARNING: closing unknown idle session /192.168.3.83:64657
+2024-06-13 16:02:29,568 - WARNING: closing unknown idle session /192.168.3.83:64711
+2024-06-13 16:02:29,568 - WARNING: closing unknown idle session /192.168.3.83:64660
+2024-06-13 16:02:29,568 - WARNING: closing unknown idle session /192.168.3.83:64714
+2024-06-13 16:02:29,568 - WARNING: closing unknown idle session /192.168.3.83:64690
+2024-06-13 16:02:29,568 - WARNING: closing unknown idle session /192.168.3.83:64726
+2024-06-13 16:02:29,569 - WARNING: closing unknown idle session /192.168.3.83:64732
+2024-06-13 16:02:29,569 - WARNING: closing unknown idle session /192.168.3.83:64720
+2024-06-13 16:02:29,569 - WARNING: closing unknown idle session /192.168.3.83:64735
+2024-06-13 16:02:29,530 - WARNING: closing unknown idle session /192.168.3.83:64697
+2024-06-13 16:02:29,573 - WARNING: closing unknown idle session /192.168.3.83:64664
+2024-06-13 16:02:29,573 - WARNING: closing unknown idle session /192.168.3.83:64727
+2024-06-13 16:02:29,574 - WARNING: closing unknown idle session /192.168.3.83:64650
+2024-06-13 16:02:29,574 - WARNING: closing unknown idle session /192.168.3.83:64655
+2024-06-13 16:02:29,574 - WARNING: closing unknown idle session /192.168.3.83:64661
+2024-06-13 16:02:29,575 - WARNING: closing unknown idle session /192.168.3.83:64676
+2024-06-13 16:02:29,576 - WARNING: closing unknown idle session /192.168.3.83:64651
+2024-06-13 16:02:29,569 - WARNING: closing unknown idle session /192.168.3.83:64702
+2024-06-13 16:02:29,576 - WARNING: closing unknown idle session /192.168.3.83:64670
+2024-06-13 16:02:29,576 - WARNING: closing unknown idle session /192.168.3.83:64681
+2024-06-13 16:02:29,576 - WARNING: closing unknown idle session /192.168.3.83:64686
+2024-06-13 16:02:29,576 - WARNING: closing unknown idle session /192.168.3.83:64672
+2024-06-13 16:02:29,576 - WARNING: closing unknown idle session /192.168.3.83:64731
+2024-06-13 16:02:29,576 - WARNING: closing unknown idle session /192.168.3.83:64678
+2024-06-13 16:02:29,576 - WARNING: closing unknown idle session /192.168.3.83:64671
+2024-06-13 16:02:29,577 - WARNING: closing unknown idle session /192.168.3.83:64656
+2024-06-13 16:02:29,577 - WARNING: closing unknown idle session /192.168.3.83:64709
+2024-06-13 16:02:29,577 - WARNING: closing unknown idle session /192.168.3.83:64662
+2024-06-13 16:02:29,577 - WARNING: closing unknown idle session /192.168.3.83:64716
+2024-06-13 16:02:29,579 - WARNING: closing unknown idle session /192.168.3.83:64719
+2024-06-13 16:02:29,580 - WARNING: closing unknown idle session /192.168.3.83:64648
+2024-06-13 16:02:29,580 - WARNING: closing unknown idle session /192.168.3.83:64713
+2024-06-13 16:02:29,580 - WARNING: closing unknown idle session /192.168.3.83:64689
+2024-06-13 16:02:29,581 - WARNING: closing unknown idle session /192.168.3.83:64722
+2024-06-13 16:02:29,581 - WARNING: closing unknown idle session /192.168.3.83:64667
+2024-06-13 16:02:29,581 - WARNING: closing unknown idle session /192.168.3.83:64640
+2024-06-13 16:02:29,581 - WARNING: closing unknown idle session /192.168.3.83:64652
+2024-06-13 16:02:29,582 - WARNING: closing unknown idle session /192.168.3.83:64645
+2024-06-13 16:02:29,583 - WARNING: closing unknown idle session /192.168.3.83:64674
+2024-06-13 16:02:29,584 - WARNING: closing unknown idle session /192.168.3.83:64700
+2024-06-13 16:02:29,588 - WARNING: closing unknown idle session /192.168.3.83:64692
+2024-06-13 16:02:29,589 - WARNING: closing unknown idle session /192.168.3.83:64683
+2024-06-13 16:02:29,590 - WARNING: closing unknown idle session /192.168.3.83:64734
+2024-06-13 16:02:29,590 - WARNING: closing unknown idle session /192.168.3.83:64677
+2024-06-13 16:02:29,592 - WARNING: closing unknown idle session /192.168.3.83:64725
+2024-06-13 16:02:29,593 - WARNING: closing unknown idle session /192.168.3.83:64665
+2024-06-13 16:02:29,593 - WARNING: closing unknown idle session /192.168.3.83:64707
+2024-06-13 16:02:29,593 - WARNING: closing unknown idle session /192.168.3.83:64733
+2024-06-13 16:02:29,593 - WARNING: closing unknown idle session /192.168.3.83:64703
+2024-06-13 16:02:29,593 - WARNING: closing unknown idle session /192.168.3.83:64659
+2024-06-13 16:02:29,594 - WARNING: closing unknown idle session /192.168.3.83:64695
+2024-06-13 16:02:29,594 - WARNING: closing unknown idle session /192.168.3.83:64728
+2024-06-13 16:02:29,594 - WARNING: closing unknown idle session /192.168.3.83:64698
+2024-06-13 16:02:29,594 - WARNING: closing unknown idle session /192.168.3.83:64706
+2024-06-13 16:02:29,594 - WARNING: closing unknown idle session /192.168.3.83:64704
+2024-06-13 16:02:29,594 - WARNING: closing unknown idle session /192.168.3.83:64685
+2024-06-13 16:02:29,595 - WARNING: closing unknown idle session /192.168.3.83:64688
+2024-06-13 16:02:29,595 - WARNING: closing unknown idle session /192.168.3.83:64730
+2024-06-13 16:02:29,595 - WARNING: closing unknown idle session /192.168.3.83:64679
+2024-06-13 16:02:29,595 - WARNING: closing unknown idle session /192.168.3.83:64701
+2024-06-13 16:02:29,596 - WARNING: closing unknown idle session /192.168.3.83:64694
+2024-06-13 16:02:29,596 - WARNING: closing unknown idle session /192.168.3.83:64642
+2024-06-13 16:02:29,596 - WARNING: closing unknown idle session /192.168.3.83:64668
+2024-06-13 16:02:29,597 - WARNING: closing unknown idle session /192.168.3.83:64638
+2024-06-13 16:02:29,598 - WARNING: closing unknown idle session /192.168.3.83:64637
+2024-06-13 16:02:29,599 - WARNING: closing unknown idle session /192.168.3.83:64673
+2024-06-13 16:02:29,624 - WARNING: closing unknown idle session /192.168.3.83:64712
+2024-06-13 16:02:29,626 - WARNING: closing unknown idle session /192.168.3.83:64715
+2024-06-13 16:02:29,627 - WARNING: closing unknown idle session /192.168.3.83:64718
+2024-06-13 16:02:29,628 - WARNING: closing unknown idle session /192.168.3.83:64647
+2024-06-13 16:02:29,630 - WARNING: closing unknown idle session /192.168.3.83:64710
+2024-06-13 16:02:29,630 - WARNING: closing unknown idle session /192.168.3.83:64724
+2024-06-13 16:02:29,631 - WARNING: closing unknown idle session /192.168.3.83:64736
+2024-06-13 16:02:29,639 - WARNING: closing unknown idle session /192.168.3.83:64658
+2024-06-13 16:02:29,643 - WARNING: closing unknown idle session /192.168.3.83:64691
+2024-06-13 16:02:29,644 - WARNING: closing unknown idle session /192.168.3.83:64721
+2024-06-13 16:02:29,691 - WARNING: closing unknown idle session /192.168.3.83:64643
+2024-06-13 16:02:29,691 - WARNING: closing unknown idle session /192.168.3.83:64653
+2024-06-13 16:02:29,691 - WARNING: closing unknown idle session /192.168.3.83:64680
+2024-06-13 16:02:39,891 - WARNING: closing unknown idle session /192.168.3.83:64767
+2024-06-13 16:02:39,891 - WARNING: closing unknown idle session /192.168.3.83:64818
+2024-06-13 16:02:39,893 - WARNING: closing unknown idle session /192.168.3.83:64827
+2024-06-13 16:02:39,893 - WARNING: closing unknown idle session /192.168.3.83:64755
+2024-06-13 16:02:39,893 - WARNING: closing unknown idle session /192.168.3.83:64761
+2024-06-13 16:02:39,894 - WARNING: closing unknown idle session /192.168.3.83:64794
+2024-06-13 16:02:39,894 - WARNING: closing unknown idle session /192.168.3.83:64821
+2024-06-13 16:02:39,894 - WARNING: closing unknown idle session /192.168.3.83:64800
+2024-06-13 16:02:39,895 - WARNING: closing unknown idle session /192.168.3.83:64812
+2024-06-13 16:02:39,895 - WARNING: closing unknown idle session /192.168.3.83:64815
+2024-06-13 16:02:39,895 - WARNING: closing unknown idle session /192.168.3.83:64740
+2024-06-13 16:02:39,895 - WARNING: closing unknown idle session /192.168.3.83:64776
+2024-06-13 16:02:39,895 - WARNING: closing unknown idle session /192.168.3.83:64779
+2024-06-13 16:02:39,895 - WARNING: closing unknown idle session /192.168.3.83:64743
+2024-06-13 16:02:39,895 - WARNING: closing unknown idle session /192.168.3.83:64785
+2024-06-13 16:02:39,896 - WARNING: closing unknown idle session /192.168.3.83:64746
+2024-06-13 16:02:39,896 - WARNING: closing unknown idle session /192.168.3.83:64758
+2024-06-13 16:02:39,896 - WARNING: closing unknown idle session /192.168.3.83:64836
+2024-06-13 16:02:39,896 - WARNING: closing unknown idle session /192.168.3.83:64749
+2024-06-13 16:02:39,896 - WARNING: closing unknown idle session /192.168.3.83:64770
+2024-06-13 16:02:39,896 - WARNING: closing unknown idle session /192.168.3.83:64809
+2024-06-13 16:02:39,896 - WARNING: closing unknown idle session /192.168.3.83:64782
+2024-06-13 16:02:39,896 - WARNING: closing unknown idle session /192.168.3.83:64788
+2024-06-13 16:02:39,897 - WARNING: closing unknown idle session /192.168.3.83:64752
+2024-06-13 16:02:39,897 - WARNING: closing unknown idle session /192.168.3.83:64803
+2024-06-13 16:02:39,897 - WARNING: closing unknown idle session /192.168.3.83:64830
+2024-06-13 16:02:39,897 - WARNING: closing unknown idle session /192.168.3.83:64806
+2024-06-13 16:02:39,897 - WARNING: closing unknown idle session /192.168.3.83:64791
+2024-06-13 16:02:39,897 - WARNING: closing unknown idle session /192.168.3.83:64797
+2024-06-13 16:02:39,897 - WARNING: closing unknown idle session /192.168.3.83:64773
+2024-06-13 16:02:39,898 - WARNING: closing unknown idle session /192.168.3.83:64833
+2024-06-13 16:02:39,898 - WARNING: closing unknown idle session /192.168.3.83:64824
+2024-06-13 16:02:39,898 - WARNING: closing unknown idle session /192.168.3.83:64764
+2024-06-13 16:02:40,025 - WARNING: closing unknown idle session /192.168.3.83:64739
+2024-06-13 16:02:40,025 - WARNING: closing unknown idle session /192.168.3.83:64784
+2024-06-13 16:02:40,026 - WARNING: closing unknown idle session /192.168.3.83:64754
+2024-06-13 16:02:40,026 - WARNING: closing unknown idle session /192.168.3.83:64805
+2024-06-13 16:02:40,026 - WARNING: closing unknown idle session /192.168.3.83:64814
+2024-06-13 16:02:40,026 - WARNING: closing unknown idle session /192.168.3.83:64790
+2024-06-13 16:02:40,026 - WARNING: closing unknown idle session /192.168.3.83:64793
+2024-06-13 16:02:40,026 - WARNING: closing unknown idle session /192.168.3.83:64769
+2024-06-13 16:02:40,026 - WARNING: closing unknown idle session /192.168.3.83:64781
+2024-06-13 16:02:40,026 - WARNING: closing unknown idle session /192.168.3.83:64748
+2024-06-13 16:02:40,026 - WARNING: closing unknown idle session /192.168.3.83:64838
+2024-06-13 16:02:40,027 - WARNING: closing unknown idle session /192.168.3.83:64751
+2024-06-13 16:02:40,027 - WARNING: closing unknown idle session /192.168.3.83:64760
+2024-06-13 16:02:40,027 - WARNING: closing unknown idle session /192.168.3.83:64757
+2024-06-13 16:02:40,027 - WARNING: closing unknown idle session /192.168.3.83:64766
+2024-06-13 16:02:40,027 - WARNING: closing unknown idle session /192.168.3.83:64775
+2024-06-13 16:02:40,027 - WARNING: closing unknown idle session /192.168.3.83:64811
+2024-06-13 16:02:40,027 - WARNING: closing unknown idle session /192.168.3.83:64802
+2024-06-13 16:02:40,027 - WARNING: closing unknown idle session /192.168.3.83:64817
+2024-06-13 16:02:40,027 - WARNING: closing unknown idle session /192.168.3.83:64787
+2024-06-13 16:02:40,028 - WARNING: closing unknown idle session /192.168.3.83:64808
+2024-06-13 16:02:40,028 - WARNING: closing unknown idle session /192.168.3.83:64799
+2024-06-13 16:02:40,028 - WARNING: closing unknown idle session /192.168.3.83:64835
+2024-06-13 16:02:40,028 - WARNING: closing unknown idle session /192.168.3.83:64772
+2024-06-13 16:02:40,028 - WARNING: closing unknown idle session /192.168.3.83:64796
+2024-06-13 16:02:40,028 - WARNING: closing unknown idle session /192.168.3.83:64829
+2024-06-13 16:02:40,028 - WARNING: closing unknown idle session /192.168.3.83:64742
+2024-06-13 16:02:40,028 - WARNING: closing unknown idle session /192.168.3.83:64763
+2024-06-13 16:02:40,028 - WARNING: closing unknown idle session /192.168.3.83:64823
+2024-06-13 16:02:40,028 - WARNING: closing unknown idle session /192.168.3.83:64778
+2024-06-13 16:02:40,029 - WARNING: closing unknown idle session /192.168.3.83:64745
+2024-06-13 16:02:40,029 - WARNING: closing unknown idle session /192.168.3.83:64826
+2024-06-13 16:02:40,029 - WARNING: closing unknown idle session /192.168.3.83:64832
+2024-06-13 16:02:40,029 - WARNING: closing unknown idle session /192.168.3.83:64820
+2024-06-13 16:02:40,066 - WARNING: closing unknown idle session /192.168.3.83:64837
+2024-06-13 16:02:40,067 - WARNING: closing unknown idle session /192.168.3.83:64756
+2024-06-13 16:02:40,067 - WARNING: closing unknown idle session /192.168.3.83:64807
+2024-06-13 16:02:40,067 - WARNING: closing unknown idle session /192.168.3.83:64825
+2024-06-13 16:02:40,067 - WARNING: closing unknown idle session /192.168.3.83:64762
+2024-06-13 16:02:40,067 - WARNING: closing unknown idle session /192.168.3.83:64744
+2024-06-13 16:02:40,068 - WARNING: closing unknown idle session /192.168.3.83:64768
+2024-06-13 16:02:40,068 - WARNING: closing unknown idle session /192.168.3.83:64789
+2024-06-13 16:02:40,068 - WARNING: closing unknown idle session /192.168.3.83:64819
+2024-06-13 16:02:40,068 - WARNING: closing unknown idle session /192.168.3.83:64777
+2024-06-13 16:02:40,068 - WARNING: closing unknown idle session /192.168.3.83:64753
+2024-06-13 16:02:40,068 - WARNING: closing unknown idle session /192.168.3.83:64786
+2024-06-13 16:02:40,069 - WARNING: closing unknown idle session /192.168.3.83:64747
+2024-06-13 16:02:40,069 - WARNING: closing unknown idle session /192.168.3.83:64771
+2024-06-13 16:02:40,069 - WARNING: closing unknown idle session /192.168.3.83:64783
+2024-06-13 16:02:40,069 - WARNING: closing unknown idle session /192.168.3.83:64804
+2024-06-13 16:02:40,069 - WARNING: closing unknown idle session /192.168.3.83:64822
+2024-06-13 16:02:40,069 - WARNING: closing unknown idle session /192.168.3.83:64741
+2024-06-13 16:02:40,069 - WARNING: closing unknown idle session /192.168.3.83:64816
+2024-06-13 16:02:40,069 - WARNING: closing unknown idle session /192.168.3.83:64801
+2024-06-13 16:02:40,069 - WARNING: closing unknown idle session /192.168.3.83:64792
+2024-06-13 16:02:40,069 - WARNING: closing unknown idle session /192.168.3.83:64774
+2024-06-13 16:02:40,070 - WARNING: closing unknown idle session /192.168.3.83:64750
+2024-06-13 16:02:40,072 - WARNING: closing unknown idle session /192.168.3.83:64813
+2024-06-13 16:02:40,188 - WARNING: closing unknown idle session /192.168.3.83:64828
+2024-06-13 16:02:40,189 - WARNING: closing unknown idle session /192.168.3.83:64765
+2024-06-13 16:02:40,189 - WARNING: closing unknown idle session /192.168.3.83:64795
+2024-06-13 16:02:40,189 - WARNING: closing unknown idle session /192.168.3.83:64798
+2024-06-13 16:02:40,189 - WARNING: closing unknown idle session /192.168.3.83:64759
+2024-06-13 16:02:40,190 - WARNING: closing unknown idle session /192.168.3.83:64780
+2024-06-13 16:02:40,191 - WARNING: closing unknown idle session /192.168.3.83:64831
+2024-06-13 16:02:40,191 - WARNING: closing unknown idle session /192.168.3.83:64834
+2024-06-13 16:02:40,195 - WARNING: closing unknown idle session /192.168.3.83:64810
+2024-06-13 16:02:50,373 - WARNING: closing unknown idle session /192.168.3.83:64906
+2024-06-13 16:02:50,373 - WARNING: closing unknown idle session /192.168.3.83:64903
+2024-06-13 16:02:50,374 - WARNING: closing unknown idle session /192.168.3.83:64912
+2024-06-13 16:02:50,374 - WARNING: closing unknown idle session /192.168.3.83:64909
+2024-06-13 16:02:50,374 - WARNING: closing unknown idle session /192.168.3.83:64927
+2024-06-13 16:02:50,374 - WARNING: closing unknown idle session /192.168.3.83:64879
+2024-06-13 16:02:50,375 - WARNING: closing unknown idle session /192.168.3.83:64891
+2024-06-13 16:02:50,375 - WARNING: closing unknown idle session /192.168.3.83:64867
+2024-06-13 16:02:50,375 - WARNING: closing unknown idle session /192.168.3.83:64915
+2024-06-13 16:02:50,375 - WARNING: closing unknown idle session /192.168.3.83:64870
+2024-06-13 16:02:50,376 - WARNING: closing unknown idle session /192.168.3.83:64933
+2024-06-13 16:02:50,376 - WARNING: closing unknown idle session /192.168.3.83:64918
+2024-06-13 16:02:50,376 - WARNING: closing unknown idle session /192.168.3.83:64858
+2024-06-13 16:02:50,377 - WARNING: closing unknown idle session /192.168.3.83:64900
+2024-06-13 16:02:50,377 - WARNING: closing unknown idle session /192.168.3.83:64894
+2024-06-13 16:02:50,378 - WARNING: closing unknown idle session /192.168.3.83:64939
+2024-06-13 16:02:50,378 - WARNING: closing unknown idle session /192.168.3.83:64885
+2024-06-13 16:02:50,378 - WARNING: closing unknown idle session /192.168.3.83:64843
+2024-06-13 16:02:50,378 - WARNING: closing unknown idle session /192.168.3.83:64861
+2024-06-13 16:02:50,379 - WARNING: closing unknown idle session /192.168.3.83:64921
+2024-06-13 16:02:50,381 - WARNING: closing unknown idle session /192.168.3.83:64849
+2024-06-13 16:02:50,381 - WARNING: closing unknown idle session /192.168.3.83:64897
+2024-06-13 16:02:50,383 - WARNING: closing unknown idle session /192.168.3.83:64840
+2024-06-13 16:02:50,384 - WARNING: closing unknown idle session /192.168.3.83:64852
+2024-06-13 16:02:50,385 - WARNING: closing unknown idle session /192.168.3.83:64924
+2024-06-13 16:02:50,385 - WARNING: closing unknown idle session /192.168.3.83:64855
+2024-06-13 16:02:50,385 - WARNING: closing unknown idle session /192.168.3.83:64876
+2024-06-13 16:02:50,385 - WARNING: closing unknown idle session /192.168.3.83:64888
+2024-06-13 16:02:50,385 - WARNING: closing unknown idle session /192.168.3.83:64846
+2024-06-13 16:02:50,386 - WARNING: closing unknown idle session /192.168.3.83:64873
+2024-06-13 16:02:50,386 - WARNING: closing unknown idle session /192.168.3.83:64864
+2024-06-13 16:02:50,386 - WARNING: closing unknown idle session /192.168.3.83:64936
+2024-06-13 16:02:50,386 - WARNING: closing unknown idle session /192.168.3.83:64882
+2024-06-13 16:02:50,386 - WARNING: closing unknown idle session /192.168.3.83:64930
+2024-06-13 16:02:50,400 - WARNING: closing unknown idle session /192.168.3.83:64919
+2024-06-13 16:02:50,401 - WARNING: closing unknown idle session /192.168.3.83:64886
+2024-06-13 16:02:50,401 - WARNING: closing unknown idle session /192.168.3.83:64853
+2024-06-13 16:02:50,401 - WARNING: closing unknown idle session /192.168.3.83:64841
+2024-06-13 16:02:50,402 - WARNING: closing unknown idle session /192.168.3.83:64877
+2024-06-13 16:02:50,402 - WARNING: closing unknown idle session /192.168.3.83:64847
+2024-06-13 16:02:50,402 - WARNING: closing unknown idle session /192.168.3.83:64916
+2024-06-13 16:02:50,402 - WARNING: closing unknown idle session /192.168.3.83:64865
+2024-06-13 16:02:50,402 - WARNING: closing unknown idle session /192.168.3.83:64910
+2024-06-13 16:02:50,402 - WARNING: closing unknown idle session /192.168.3.83:64937
+2024-06-13 16:02:50,402 - WARNING: closing unknown idle session /192.168.3.83:64920
+2024-06-13 16:02:50,402 - WARNING: closing unknown idle session /192.168.3.83:64850
+2024-06-13 16:02:50,402 - WARNING: closing unknown idle session /192.168.3.83:64938
+2024-06-13 16:02:50,403 - WARNING: closing unknown idle session /192.168.3.83:64923
+2024-06-13 16:02:50,403 - WARNING: closing unknown idle session /192.168.3.83:64863
+2024-06-13 16:02:50,403 - WARNING: closing unknown idle session /192.168.3.83:64899
+2024-06-13 16:02:50,403 - WARNING: closing unknown idle session /192.168.3.83:64914
+2024-06-13 16:02:50,403 - WARNING: closing unknown idle session /192.168.3.83:64851
+2024-06-13 16:02:50,403 - WARNING: closing unknown idle session /192.168.3.83:64866
+2024-06-13 16:02:50,403 - WARNING: closing unknown idle session /192.168.3.83:64890
+2024-06-13 16:02:50,403 - WARNING: closing unknown idle session /192.168.3.83:64884
+2024-06-13 16:02:50,404 - WARNING: closing unknown idle session /192.168.3.83:64857
+2024-06-13 16:02:50,404 - WARNING: closing unknown idle session /192.168.3.83:64848
+2024-06-13 16:02:50,405 - WARNING: closing unknown idle session /192.168.3.83:64875
+2024-06-13 16:02:50,405 - WARNING: closing unknown idle session /192.168.3.83:64854
+2024-06-13 16:02:50,406 - WARNING: closing unknown idle session /192.168.3.83:64893
+2024-06-13 16:02:50,406 - WARNING: closing unknown idle session /192.168.3.83:64887
+2024-06-13 16:02:50,406 - WARNING: closing unknown idle session /192.168.3.83:64869
+2024-06-13 16:02:50,406 - WARNING: closing unknown idle session /192.168.3.83:64872
+2024-06-13 16:02:50,406 - WARNING: closing unknown idle session /192.168.3.83:64878
+2024-06-13 16:02:50,406 - WARNING: closing unknown idle session /192.168.3.83:64932
+2024-06-13 16:02:50,406 - WARNING: closing unknown idle session /192.168.3.83:64896
+2024-06-13 16:02:50,407 - WARNING: closing unknown idle session /192.168.3.83:64908
+2024-06-13 16:02:50,408 - WARNING: closing unknown idle session /192.168.3.83:64917
+2024-06-13 16:02:50,408 - WARNING: closing unknown idle session /192.168.3.83:64931
+2024-06-13 16:02:50,408 - WARNING: closing unknown idle session /192.168.3.83:64926
+2024-06-13 16:02:50,408 - WARNING: closing unknown idle session /192.168.3.83:64859
+2024-06-13 16:02:50,408 - WARNING: closing unknown idle session /192.168.3.83:64881
+2024-06-13 16:02:50,408 - WARNING: closing unknown idle session /192.168.3.83:64901
+2024-06-13 16:02:50,408 - WARNING: closing unknown idle session /192.168.3.83:64905
+2024-06-13 16:02:50,408 - WARNING: closing unknown idle session /192.168.3.83:64922
+2024-06-13 16:02:50,408 - WARNING: closing unknown idle session /192.168.3.83:64935
+2024-06-13 16:02:50,408 - WARNING: closing unknown idle session /192.168.3.83:64871
+2024-06-13 16:02:50,408 - WARNING: closing unknown idle session /192.168.3.83:64860
+2024-06-13 16:02:50,408 - WARNING: closing unknown idle session /192.168.3.83:64868
+2024-06-13 16:02:50,408 - WARNING: closing unknown idle session /192.168.3.83:64902
+2024-06-13 16:02:50,409 - WARNING: closing unknown idle session /192.168.3.83:64907
+2024-06-13 16:02:50,409 - WARNING: closing unknown idle session /192.168.3.83:64911
+2024-06-13 16:02:50,409 - WARNING: closing unknown idle session /192.168.3.83:64856
+2024-06-13 16:02:50,409 - WARNING: closing unknown idle session /192.168.3.83:64845
+2024-06-13 16:02:50,409 - WARNING: closing unknown idle session /192.168.3.83:64874
+2024-06-13 16:02:50,409 - WARNING: closing unknown idle session /192.168.3.83:64929
+2024-06-13 16:02:50,409 - WARNING: closing unknown idle session /192.168.3.83:64880
+2024-06-13 16:02:50,409 - WARNING: closing unknown idle session /192.168.3.83:64842
+2024-06-13 16:02:50,409 - WARNING: closing unknown idle session /192.168.3.83:64913
+2024-06-13 16:02:50,409 - WARNING: closing unknown idle session /192.168.3.83:64892
+2024-06-13 16:02:50,409 - WARNING: closing unknown idle session /192.168.3.83:64925
+2024-06-13 16:02:50,409 - WARNING: closing unknown idle session /192.168.3.83:64895
+2024-06-13 16:02:50,409 - WARNING: closing unknown idle session /192.168.3.83:64898
+2024-06-13 16:02:50,410 - WARNING: closing unknown idle session /192.168.3.83:64904
+2024-06-13 16:02:50,410 - WARNING: closing unknown idle session /192.168.3.83:64844
+2024-06-13 16:02:50,410 - WARNING: closing unknown idle session /192.168.3.83:64934
+2024-06-13 16:02:50,410 - WARNING: closing unknown idle session /192.168.3.83:64862
+2024-06-13 16:02:50,419 - WARNING: closing unknown idle session /192.168.3.83:64883
+2024-06-13 16:02:50,419 - WARNING: closing unknown idle session /192.168.3.83:64889
+2024-06-13 16:02:50,419 - WARNING: closing unknown idle session /192.168.3.83:64928
+2024-06-13 16:03:35,409 - WARNING: closing unknown idle session /192.168.3.83:65042
+2024-06-13 16:03:35,410 - WARNING: closing unknown idle session /192.168.3.83:64988
+2024-06-13 16:03:35,410 - WARNING: closing unknown idle session /192.168.3.83:64991
+2024-06-13 16:03:35,411 - WARNING: closing unknown idle session /192.168.3.83:65009
+2024-06-13 16:03:35,411 - WARNING: closing unknown idle session /192.168.3.83:65030
+2024-06-13 16:03:35,411 - WARNING: closing unknown idle session /192.168.3.83:64997
+2024-06-13 16:03:35,411 - WARNING: closing unknown idle session /192.168.3.83:65033
+2024-06-13 16:03:35,411 - WARNING: closing unknown idle session /192.168.3.83:64963
+2024-06-13 16:03:35,411 - WARNING: closing unknown idle session /192.168.3.83:65051
+2024-06-13 16:03:35,412 - WARNING: closing unknown idle session /192.168.3.83:65054
+2024-06-13 16:03:35,412 - WARNING: closing unknown idle session /192.168.3.83:64950
+2024-06-13 16:03:35,412 - WARNING: closing unknown idle session /192.168.3.83:64967
+2024-06-13 16:03:35,412 - WARNING: closing unknown idle session /192.168.3.83:65019
+2024-06-13 16:03:35,412 - WARNING: closing unknown idle session /192.168.3.83:64975
+2024-06-13 16:03:35,412 - WARNING: closing unknown idle session /192.168.3.83:65046
+2024-06-13 16:03:35,412 - WARNING: closing unknown idle session /192.168.3.83:64947
+2024-06-13 16:03:35,413 - WARNING: closing unknown idle session /192.168.3.83:65043
+2024-06-13 16:03:35,413 - WARNING: closing unknown idle session /192.168.3.83:64965
+2024-06-13 16:03:35,413 - WARNING: closing unknown idle session /192.168.3.83:64998
+2024-06-13 16:03:35,413 - WARNING: closing unknown idle session /192.168.3.83:65052
+2024-06-13 16:03:35,413 - WARNING: closing unknown idle session /192.168.3.83:65031
+2024-06-13 16:03:35,414 - WARNING: closing unknown idle session /192.168.3.83:65013
+2024-06-13 16:03:35,414 - WARNING: closing unknown idle session /192.168.3.83:64989
+2024-06-13 16:03:35,415 - WARNING: closing unknown idle session /192.168.3.83:64992
+2024-06-13 16:03:35,415 - WARNING: closing unknown idle session /192.168.3.83:64995
+2024-06-13 16:03:35,415 - WARNING: closing unknown idle session /192.168.3.83:64962
+2024-06-13 16:03:35,415 - WARNING: closing unknown idle session /192.168.3.83:64949
+2024-06-13 16:03:35,415 - WARNING: closing unknown idle session /192.168.3.83:64981
+2024-06-13 16:03:35,415 - WARNING: closing unknown idle session /192.168.3.83:65022
+2024-06-13 16:03:35,416 - WARNING: closing unknown idle session /192.168.3.83:64956
+2024-06-13 16:03:35,416 - WARNING: closing unknown idle session /192.168.3.83:64971
+2024-06-13 16:03:35,416 - WARNING: closing unknown idle session /192.168.3.83:65001
+2024-06-13 16:03:35,416 - WARNING: closing unknown idle session /192.168.3.83:64968
+2024-06-13 16:03:35,416 - WARNING: closing unknown idle session /192.168.3.83:64986
+2024-06-13 16:03:35,417 - WARNING: closing unknown idle session /192.168.3.83:65049
+2024-06-13 16:03:35,417 - WARNING: closing unknown idle session /192.168.3.83:65034
+2024-06-13 16:03:35,417 - WARNING: closing unknown idle session /192.168.3.83:65037
+2024-06-13 16:03:35,417 - WARNING: closing unknown idle session /192.168.3.83:64953
+2024-06-13 16:03:35,417 - WARNING: closing unknown idle session /192.168.3.83:65025
+2024-06-13 16:03:35,417 - WARNING: closing unknown idle session /192.168.3.83:65016
+2024-06-13 16:03:35,417 - WARNING: closing unknown idle session /192.168.3.83:65007
+2024-06-13 16:03:35,418 - WARNING: closing unknown idle session /192.168.3.83:65055
+2024-06-13 16:03:35,418 - WARNING: closing unknown idle session /192.168.3.83:64977
+2024-06-13 16:03:35,418 - WARNING: closing unknown idle session /192.168.3.83:65010
+2024-06-13 16:03:35,418 - WARNING: closing unknown idle session /192.168.3.83:65040
+2024-06-13 16:03:35,419 - WARNING: closing unknown idle session /192.168.3.83:64959
+2024-06-13 16:03:35,419 - WARNING: closing unknown idle session /192.168.3.83:64983
+2024-06-13 16:03:35,419 - WARNING: closing unknown idle session /192.168.3.83:65028
+2024-06-13 16:03:35,412 - WARNING: closing unknown idle session /192.168.3.83:65000
+2024-06-13 16:03:35,420 - WARNING: closing unknown idle session /192.168.3.83:64973
+2024-06-13 16:03:35,420 - WARNING: closing unknown idle session /192.168.3.83:65039
+2024-06-13 16:03:35,420 - WARNING: closing unknown idle session /192.168.3.83:65012
+2024-06-13 16:03:35,420 - WARNING: closing unknown idle session /192.168.3.83:64976
+2024-06-13 16:03:35,421 - WARNING: closing unknown idle session /192.168.3.83:64994
+2024-06-13 16:03:35,421 - WARNING: closing unknown idle session /192.168.3.83:65024
+2024-06-13 16:03:35,421 - WARNING: closing unknown idle session /192.168.3.83:64952
+2024-06-13 16:03:35,421 - WARNING: closing unknown idle session /192.168.3.83:65021
+2024-06-13 16:03:35,421 - WARNING: closing unknown idle session /192.168.3.83:64964
+2024-06-13 16:03:35,422 - WARNING: closing unknown idle session /192.168.3.83:65006
+2024-06-13 16:03:35,422 - WARNING: closing unknown idle session /192.168.3.83:64958
+2024-06-13 16:03:35,422 - WARNING: closing unknown idle session /192.168.3.83:64961
+2024-06-13 16:03:35,422 - WARNING: closing unknown idle session /192.168.3.83:64984
+2024-06-13 16:03:35,422 - WARNING: closing unknown idle session /192.168.3.83:65045
+2024-06-13 16:03:35,423 - WARNING: closing unknown idle session /192.168.3.83:65015
+2024-06-13 16:03:35,423 - WARNING: closing unknown idle session /192.168.3.83:64955
+2024-06-13 16:03:35,423 - WARNING: closing unknown idle session /192.168.3.83:64970
+2024-06-13 16:03:35,423 - WARNING: closing unknown idle session /192.168.3.83:65027
+2024-06-13 16:03:35,423 - WARNING: closing unknown idle session /192.168.3.83:64979
+2024-06-13 16:03:35,423 - WARNING: closing unknown idle session /192.168.3.83:64982
+2024-06-13 16:03:35,423 - WARNING: closing unknown idle session /192.168.3.83:64948
+2024-06-13 16:03:35,424 - WARNING: closing unknown idle session /192.168.3.83:65036
+2024-06-13 16:03:35,424 - WARNING: closing unknown idle session /192.168.3.83:65018
+2024-06-13 16:03:35,424 - WARNING: closing unknown idle session /192.168.3.83:65048
+2024-06-13 16:03:35,424 - WARNING: closing unknown idle session /192.168.3.83:65003
+2024-06-13 16:03:35,419 - WARNING: closing unknown idle session /192.168.3.83:65004
+2024-06-13 16:03:35,438 - WARNING: closing unknown idle session /192.168.3.83:64974
+2024-06-13 16:03:35,413 - WARNING: closing unknown idle session /192.168.3.83:65047
+2024-06-13 16:03:35,452 - WARNING: closing unknown idle session /192.168.3.83:65026
+2024-06-13 16:03:35,452 - WARNING: closing unknown idle session /192.168.3.83:65056
+2024-06-13 16:03:35,452 - WARNING: closing unknown idle session /192.168.3.83:65050
+2024-06-13 16:03:35,452 - WARNING: closing unknown idle session /192.168.3.83:64999
+2024-06-13 16:03:35,452 - WARNING: closing unknown idle session /192.168.3.83:65020
+2024-06-13 16:03:35,452 - WARNING: closing unknown idle session /192.168.3.83:64954
+2024-06-13 16:03:35,452 - WARNING: closing unknown idle session /192.168.3.83:65005
+2024-06-13 16:03:35,452 - WARNING: closing unknown idle session /192.168.3.83:64993
+2024-06-13 16:03:35,453 - WARNING: closing unknown idle session /192.168.3.83:64960
+2024-06-13 16:03:35,454 - WARNING: closing unknown idle session /192.168.3.83:64996
+2024-06-13 16:03:35,454 - WARNING: closing unknown idle session /192.168.3.83:65011
+2024-06-13 16:03:35,454 - WARNING: closing unknown idle session /192.168.3.83:65032
+2024-06-13 16:03:35,454 - WARNING: closing unknown idle session /192.168.3.83:65053
+2024-06-13 16:03:35,454 - WARNING: closing unknown idle session /192.168.3.83:64980
+2024-06-13 16:03:35,454 - WARNING: closing unknown idle session /192.168.3.83:64978
+2024-06-13 16:03:35,454 - WARNING: closing unknown idle session /192.168.3.83:65041
+2024-06-13 16:03:35,454 - WARNING: closing unknown idle session /192.168.3.83:64987
+2024-06-13 16:03:35,454 - WARNING: closing unknown idle session /192.168.3.83:64957
+2024-06-13 16:03:35,454 - WARNING: closing unknown idle session /192.168.3.83:64969
+2024-06-13 16:03:35,454 - WARNING: closing unknown idle session /192.168.3.83:65029
+2024-06-13 16:03:35,455 - WARNING: closing unknown idle session /192.168.3.83:64951
+2024-06-13 16:03:35,455 - WARNING: closing unknown idle session /192.168.3.83:64972
+2024-06-13 16:03:35,455 - WARNING: closing unknown idle session /192.168.3.83:64966
+2024-06-13 16:03:35,455 - WARNING: closing unknown idle session /192.168.3.83:65017
+2024-06-13 16:03:35,455 - WARNING: closing unknown idle session /192.168.3.83:65002
+2024-06-13 16:03:35,455 - WARNING: closing unknown idle session /192.168.3.83:65014
+2024-06-13 16:03:35,455 - WARNING: closing unknown idle session /192.168.3.83:64990
+2024-06-13 16:03:35,455 - WARNING: closing unknown idle session /192.168.3.83:65035
+2024-06-13 16:03:35,455 - WARNING: closing unknown idle session /192.168.3.83:65038
+2024-06-13 16:03:35,455 - WARNING: closing unknown idle session /192.168.3.83:65008
+2024-06-13 16:03:35,455 - WARNING: closing unknown idle session /192.168.3.83:65044
+2024-06-13 16:03:35,455 - WARNING: closing unknown idle session /192.168.3.83:64985
+2024-06-13 16:03:35,455 - WARNING: closing unknown idle session /192.168.3.83:65023
+2024-06-13 16:03:45,912 - WARNING: closing unknown idle session /192.168.3.83:65075
+2024-06-13 16:03:45,912 - WARNING: closing unknown idle session /192.168.3.83:65144
+2024-06-13 16:03:45,929 - WARNING: closing unknown idle session /192.168.3.83:65147
+2024-06-13 16:03:45,930 - WARNING: closing unknown idle session /192.168.3.83:65126
+2024-06-13 16:03:45,930 - WARNING: closing unknown idle session /192.168.3.83:65159
+2024-06-13 16:03:45,930 - WARNING: closing unknown idle session /192.168.3.83:65156
+2024-06-13 16:03:45,930 - WARNING: closing unknown idle session /192.168.3.83:65063
+2024-06-13 16:03:45,930 - WARNING: closing unknown idle session /192.168.3.83:65060
+2024-06-13 16:03:45,930 - WARNING: closing unknown idle session /192.168.3.83:65123
+2024-06-13 16:03:45,930 - WARNING: closing unknown idle session /192.168.3.83:65141
+2024-06-13 16:03:45,930 - WARNING: closing unknown idle session /192.168.3.83:65108
+2024-06-13 16:03:45,930 - WARNING: closing unknown idle session /192.168.3.83:65102
+2024-06-13 16:03:45,931 - WARNING: closing unknown idle session /192.168.3.83:65129
+2024-06-13 16:03:45,931 - WARNING: closing unknown idle session /192.168.3.83:65069
+2024-06-13 16:03:45,931 - WARNING: closing unknown idle session /192.168.3.83:65165
+2024-06-13 16:03:45,931 - WARNING: closing unknown idle session /192.168.3.83:65120
+2024-06-13 16:03:45,931 - WARNING: closing unknown idle session /192.168.3.83:65153
+2024-06-13 16:03:45,931 - WARNING: closing unknown idle session /192.168.3.83:65168
+2024-06-13 16:03:45,931 - WARNING: closing unknown idle session /192.168.3.83:65111
+2024-06-13 16:03:45,931 - WARNING: closing unknown idle session /192.168.3.83:65105
+2024-06-13 16:03:45,931 - WARNING: closing unknown idle session /192.168.3.83:65114
+2024-06-13 16:03:45,931 - WARNING: closing unknown idle session /192.168.3.83:65150
+2024-06-13 16:03:45,931 - WARNING: closing unknown idle session /192.168.3.83:65117
+2024-06-13 16:03:45,931 - WARNING: closing unknown idle session /192.168.3.83:65072
+2024-06-13 16:03:45,931 - WARNING: closing unknown idle session /192.168.3.83:65066
+2024-06-13 16:03:45,931 - WARNING: closing unknown idle session /192.168.3.83:65138
+2024-06-13 16:03:45,931 - WARNING: closing unknown idle session /192.168.3.83:65099
+2024-06-13 16:03:45,932 - WARNING: closing unknown idle session /192.168.3.83:65162
+2024-06-13 16:03:45,932 - WARNING: closing unknown idle session /192.168.3.83:65132
+2024-06-13 16:03:45,932 - WARNING: closing unknown idle session /192.168.3.83:65135
+2024-06-13 16:03:45,940 - WARNING: closing unknown idle session /192.168.3.83:65070
+2024-06-13 16:03:45,941 - WARNING: closing unknown idle session /192.168.3.83:65112
+2024-06-13 16:03:45,941 - WARNING: closing unknown idle session /192.168.3.83:65163
+2024-06-13 16:03:45,941 - WARNING: closing unknown idle session /192.168.3.83:65061
+2024-06-13 16:03:45,941 - WARNING: closing unknown idle session /192.168.3.83:65064
+2024-06-13 16:03:45,941 - WARNING: closing unknown idle session /192.168.3.83:65127
+2024-06-13 16:03:45,941 - WARNING: closing unknown idle session /192.168.3.83:65124
+2024-06-13 16:03:45,941 - WARNING: closing unknown idle session /192.168.3.83:65151
+2024-06-13 16:03:45,941 - WARNING: closing unknown idle session /192.168.3.83:65145
+2024-06-13 16:03:45,941 - WARNING: closing unknown idle session /192.168.3.83:65154
+2024-06-13 16:03:45,941 - WARNING: closing unknown idle session /192.168.3.83:65109
+2024-06-13 16:03:45,941 - WARNING: closing unknown idle session /192.168.3.83:65139
+2024-06-13 16:03:45,941 - WARNING: closing unknown idle session /192.168.3.83:65148
+2024-06-13 16:03:45,941 - WARNING: closing unknown idle session /192.168.3.83:65166
+2024-06-13 16:03:45,942 - WARNING: closing unknown idle session /192.168.3.83:65067
+2024-06-13 16:03:45,942 - WARNING: closing unknown idle session /192.168.3.83:65073
+2024-06-13 16:03:45,942 - WARNING: closing unknown idle session /192.168.3.83:65157
+2024-06-13 16:03:45,947 - WARNING: closing unknown idle session /192.168.3.83:65121
+2024-06-13 16:03:45,947 - WARNING: closing unknown idle session /192.168.3.83:65076
+2024-06-13 16:03:45,947 - WARNING: closing unknown idle session /192.168.3.83:65106
+2024-06-13 16:03:45,947 - WARNING: closing unknown idle session /192.168.3.83:65130
+2024-06-13 16:03:45,947 - WARNING: closing unknown idle session /192.168.3.83:65133
+2024-06-13 16:03:45,947 - WARNING: closing unknown idle session /192.168.3.83:65160
+2024-06-13 16:03:45,947 - WARNING: closing unknown idle session /192.168.3.83:65142
+2024-06-13 16:03:45,947 - WARNING: closing unknown idle session /192.168.3.83:65103
+2024-06-13 16:03:45,947 - WARNING: closing unknown idle session /192.168.3.83:65136
+2024-06-13 16:03:45,947 - WARNING: closing unknown idle session /192.168.3.83:65100
+2024-06-13 16:03:45,947 - WARNING: closing unknown idle session /192.168.3.83:65115
+2024-06-13 16:03:45,947 - WARNING: closing unknown idle session /192.168.3.83:65118
+2024-06-13 16:03:45,953 - WARNING: closing unknown idle session /192.168.3.83:65098
+2024-06-13 16:03:45,954 - WARNING: closing unknown idle session /192.168.3.83:65068
+2024-06-13 16:03:45,956 - WARNING: closing unknown idle session /192.168.3.83:65131
+2024-06-13 16:03:45,956 - WARNING: closing unknown idle session /192.168.3.83:65164
+2024-06-13 16:03:45,956 - WARNING: closing unknown idle session /192.168.3.83:65065
+2024-06-13 16:03:45,956 - WARNING: closing unknown idle session /192.168.3.83:65146
+2024-06-13 16:03:45,956 - WARNING: closing unknown idle session /192.168.3.83:65104
+2024-06-13 16:03:45,956 - WARNING: closing unknown idle session /192.168.3.83:65122
+2024-06-13 16:03:45,956 - WARNING: closing unknown idle session /192.168.3.83:65155
+2024-06-13 16:03:45,956 - WARNING: closing unknown idle session /192.168.3.83:65125
+2024-06-13 16:03:45,957 - WARNING: closing unknown idle session /192.168.3.83:65137
+2024-06-13 16:03:45,958 - WARNING: closing unknown idle session /192.168.3.83:65167
+2024-06-13 16:03:45,958 - WARNING: closing unknown idle session /192.168.3.83:65071
+2024-06-13 16:03:45,958 - WARNING: closing unknown idle session /192.168.3.83:65059
+2024-06-13 16:03:45,958 - WARNING: closing unknown idle session /192.168.3.83:65101
+2024-06-13 16:03:45,958 - WARNING: closing unknown idle session /192.168.3.83:65074
+2024-06-13 16:03:45,958 - WARNING: closing unknown idle session /192.168.3.83:65107
+2024-06-13 16:03:45,958 - WARNING: closing unknown idle session /192.168.3.83:65140
+2024-06-13 16:03:45,958 - WARNING: closing unknown idle session /192.168.3.83:65113
+2024-06-13 16:03:45,960 - WARNING: closing unknown idle session /192.168.3.83:65161
+2024-06-13 16:03:45,960 - WARNING: closing unknown idle session /192.168.3.83:65128
+2024-06-13 16:03:45,960 - WARNING: closing unknown idle session /192.168.3.83:65116
+2024-06-13 16:03:45,960 - WARNING: closing unknown idle session /192.168.3.83:65152
+2024-06-13 16:03:45,960 - WARNING: closing unknown idle session /192.168.3.83:65134
+2024-06-13 16:03:45,961 - WARNING: closing unknown idle session /192.168.3.83:65149
+2024-06-13 16:03:45,961 - WARNING: closing unknown idle session /192.168.3.83:65110
+2024-06-13 16:03:45,961 - WARNING: closing unknown idle session /192.168.3.83:65119
+2024-06-13 16:03:45,961 - WARNING: closing unknown idle session /192.168.3.83:65158
+2024-06-13 16:03:45,961 - WARNING: closing unknown idle session /192.168.3.83:65062
+2024-06-13 16:03:45,961 - WARNING: closing unknown idle session /192.168.3.83:65143
+2024-06-13 16:03:47,374 - WARNING: closing unknown idle session /192.168.3.83:65086
+2024-06-13 16:03:47,374 - WARNING: closing unknown idle session /192.168.3.83:65080
+2024-06-13 16:03:47,375 - WARNING: closing unknown idle session /192.168.3.83:65078
+2024-06-13 16:03:47,375 - WARNING: closing unknown idle session /192.168.3.83:65089
+2024-06-13 16:03:47,375 - WARNING: closing unknown idle session /192.168.3.83:65087
+2024-06-13 16:03:47,375 - WARNING: closing unknown idle session /192.168.3.83:65085
+2024-06-13 16:03:47,375 - WARNING: closing unknown idle session /192.168.3.83:65094
+2024-06-13 16:03:47,384 - WARNING: closing unknown idle session /192.168.3.83:65084
+2024-06-13 16:03:47,384 - WARNING: closing unknown idle session /192.168.3.83:65083
+2024-06-13 16:03:47,384 - WARNING: closing unknown idle session /192.168.3.83:65096
+2024-06-13 16:03:47,384 - WARNING: closing unknown idle session /192.168.3.83:65081
+2024-06-13 16:03:47,384 - WARNING: closing unknown idle session /192.168.3.83:65079
+2024-06-13 16:03:47,385 - WARNING: closing unknown idle session /192.168.3.83:65092
+2024-06-13 16:03:47,385 - WARNING: closing unknown idle session /192.168.3.83:65093
+2024-06-13 16:03:47,388 - WARNING: closing unknown idle session /192.168.3.83:65077
+2024-06-13 16:03:47,388 - WARNING: closing unknown idle session /192.168.3.83:65090
+2024-06-13 16:03:47,388 - WARNING: closing unknown idle session /192.168.3.83:65088
+2024-06-13 16:03:47,388 - WARNING: closing unknown idle session /192.168.3.83:65095
+2024-06-13 16:03:47,388 - WARNING: closing unknown idle session /192.168.3.83:65091
+2024-06-13 16:03:47,389 - WARNING: closing unknown idle session /192.168.3.83:65097
+2024-06-13 16:03:47,389 - WARNING: closing unknown idle session /192.168.3.83:65082
+2024-06-13 16:03:56,495 - WARNING: closing unknown idle session /192.168.3.83:65171
+2024-06-13 16:03:56,495 - WARNING: closing unknown idle session /192.168.3.83:65192
+2024-06-13 16:03:56,495 - WARNING: closing unknown idle session /192.168.3.83:65201
+2024-06-13 16:03:56,495 - WARNING: closing unknown idle session /192.168.3.83:65177
+2024-06-13 16:03:56,495 - WARNING: closing unknown idle session /192.168.3.83:65252
+2024-06-13 16:03:56,495 - WARNING: closing unknown idle session /192.168.3.83:65222
+2024-06-13 16:03:56,495 - WARNING: closing unknown idle session /192.168.3.83:65228
+2024-06-13 16:03:56,495 - WARNING: closing unknown idle session /192.168.3.83:65246
+2024-06-13 16:03:56,495 - WARNING: closing unknown idle session /192.168.3.83:65195
+2024-06-13 16:03:56,496 - WARNING: closing unknown idle session /192.168.3.83:65207
+2024-06-13 16:03:56,496 - WARNING: closing unknown idle session /192.168.3.83:65237
+2024-06-13 16:03:56,496 - WARNING: closing unknown idle session /192.168.3.83:65189
+2024-06-13 16:03:56,496 - WARNING: closing unknown idle session /192.168.3.83:65240
+2024-06-13 16:03:56,496 - WARNING: closing unknown idle session /192.168.3.83:65212
+2024-06-13 16:03:56,496 - WARNING: closing unknown idle session /192.168.3.83:65210
+2024-06-13 16:03:56,496 - WARNING: closing unknown idle session /192.168.3.83:65234
+2024-06-13 16:03:56,496 - WARNING: closing unknown idle session /192.168.3.83:65219
+2024-06-13 16:03:56,496 - WARNING: closing unknown idle session /192.168.3.83:65225
+2024-06-13 16:03:56,496 - WARNING: closing unknown idle session /192.168.3.83:65231
+2024-06-13 16:03:56,496 - WARNING: closing unknown idle session /192.168.3.83:65255
+2024-06-13 16:03:56,496 - WARNING: closing unknown idle session /192.168.3.83:65198
+2024-06-13 16:03:56,496 - WARNING: closing unknown idle session /192.168.3.83:65183
+2024-06-13 16:03:56,496 - WARNING: closing unknown idle session /192.168.3.83:65216
+2024-06-13 16:03:56,496 - WARNING: closing unknown idle session /192.168.3.83:65258
+2024-06-13 16:03:56,496 - WARNING: closing unknown idle session /192.168.3.83:65243
+2024-06-13 16:03:56,496 - WARNING: closing unknown idle session /192.168.3.83:65249
+2024-06-13 16:03:56,497 - WARNING: closing unknown idle session /192.168.3.83:65174
+2024-06-13 16:03:56,497 - WARNING: closing unknown idle session /192.168.3.83:65180
+2024-06-13 16:03:56,497 - WARNING: closing unknown idle session /192.168.3.83:65186
+2024-06-13 16:03:56,497 - WARNING: closing unknown idle session /192.168.3.83:65204
+2024-06-13 16:03:56,502 - WARNING: closing unknown idle session /192.168.3.83:65223
+2024-06-13 16:03:56,502 - WARNING: closing unknown idle session /192.168.3.83:65193
+2024-06-13 16:03:56,502 - WARNING: closing unknown idle session /192.168.3.83:65190
+2024-06-13 16:03:56,502 - WARNING: closing unknown idle session /192.168.3.83:65199
+2024-06-13 16:03:56,502 - WARNING: closing unknown idle session /192.168.3.83:65229
+2024-06-13 16:03:56,502 - WARNING: closing unknown idle session /192.168.3.83:65181
+2024-06-13 16:03:56,503 - WARNING: closing unknown idle session /192.168.3.83:65187
+2024-06-13 16:03:56,503 - WARNING: closing unknown idle session /192.168.3.83:65217
+2024-06-13 16:03:56,503 - WARNING: closing unknown idle session /192.168.3.83:65256
+2024-06-13 16:03:56,503 - WARNING: closing unknown idle session /192.168.3.83:65232
+2024-06-13 16:03:56,503 - WARNING: closing unknown idle session /192.168.3.83:65253
+2024-06-13 16:03:56,503 - WARNING: closing unknown idle session /192.168.3.83:65202
+2024-06-13 16:03:56,503 - WARNING: closing unknown idle session /192.168.3.83:65250
+2024-06-13 16:03:56,503 - WARNING: closing unknown idle session /192.168.3.83:65247
+2024-06-13 16:03:56,503 - WARNING: closing unknown idle session /192.168.3.83:65208
+2024-06-13 16:03:56,503 - WARNING: closing unknown idle session /192.168.3.83:65235
+2024-06-13 16:03:56,503 - WARNING: closing unknown idle session /192.168.3.83:65226
+2024-06-13 16:03:56,503 - WARNING: closing unknown idle session /192.168.3.83:65211
+2024-06-13 16:03:56,504 - WARNING: closing unknown idle session /192.168.3.83:65220
+2024-06-13 16:03:56,504 - WARNING: closing unknown idle session /192.168.3.83:65200
+2024-06-13 16:03:56,504 - WARNING: closing unknown idle session /192.168.3.83:65178
+2024-06-13 16:03:56,504 - WARNING: closing unknown idle session /192.168.3.83:65257
+2024-06-13 16:03:56,504 - WARNING: closing unknown idle session /192.168.3.83:65205
+2024-06-13 16:03:56,504 - WARNING: closing unknown idle session /192.168.3.83:65185
+2024-06-13 16:03:56,504 - WARNING: closing unknown idle session /192.168.3.83:65172
+2024-06-13 16:03:56,504 - WARNING: closing unknown idle session /192.168.3.83:65188
+2024-06-13 16:03:56,504 - WARNING: closing unknown idle session /192.168.3.83:65241
+2024-06-13 16:03:56,504 - WARNING: closing unknown idle session /192.168.3.83:65239
+2024-06-13 16:03:56,504 - WARNING: closing unknown idle session /192.168.3.83:65244
+2024-06-13 16:03:56,504 - WARNING: closing unknown idle session /192.168.3.83:65242
+2024-06-13 16:03:56,505 - WARNING: closing unknown idle session /192.168.3.83:65196
+2024-06-13 16:03:56,505 - WARNING: closing unknown idle session /192.168.3.83:65197
+2024-06-13 16:03:56,505 - WARNING: closing unknown idle session /192.168.3.83:65175
+2024-06-13 16:03:56,505 - WARNING: closing unknown idle session /192.168.3.83:65254
+2024-06-13 16:03:56,505 - WARNING: closing unknown idle session /192.168.3.83:65238
+2024-06-13 16:03:56,505 - WARNING: closing unknown idle session /192.168.3.83:65191
+2024-06-13 16:03:56,505 - WARNING: closing unknown idle session /192.168.3.83:65214
+2024-06-13 16:03:56,505 - WARNING: closing unknown idle session /192.168.3.83:65194
+2024-06-13 16:03:56,505 - WARNING: closing unknown idle session /192.168.3.83:65184
+2024-06-13 16:03:56,505 - WARNING: closing unknown idle session /192.168.3.83:65209
+2024-06-13 16:03:56,506 - WARNING: closing unknown idle session /192.168.3.83:65213
+2024-06-13 16:03:56,506 - WARNING: closing unknown idle session /192.168.3.83:65248
+2024-06-13 16:03:56,506 - WARNING: closing unknown idle session /192.168.3.83:65224
+2024-06-13 16:03:56,506 - WARNING: closing unknown idle session /192.168.3.83:65236
+2024-06-13 16:03:56,506 - WARNING: closing unknown idle session /192.168.3.83:65176
+2024-06-13 16:03:56,506 - WARNING: closing unknown idle session /192.168.3.83:65227
+2024-06-13 16:03:56,506 - WARNING: closing unknown idle session /192.168.3.83:65230
+2024-06-13 16:03:56,506 - WARNING: closing unknown idle session /192.168.3.83:65233
+2024-06-13 16:03:56,506 - WARNING: closing unknown idle session /192.168.3.83:65251
+2024-06-13 16:03:56,506 - WARNING: closing unknown idle session /192.168.3.83:65215
+2024-06-13 16:03:56,507 - WARNING: closing unknown idle session /192.168.3.83:65221
+2024-06-13 16:03:56,507 - WARNING: closing unknown idle session /192.168.3.83:65179
+2024-06-13 16:03:56,507 - WARNING: closing unknown idle session /192.168.3.83:65182
+2024-06-13 16:03:56,507 - WARNING: closing unknown idle session /192.168.3.83:65218
+2024-06-13 16:03:56,507 - WARNING: closing unknown idle session /192.168.3.83:65245
+2024-06-13 16:03:56,507 - WARNING: closing unknown idle session /192.168.3.83:65170
+2024-06-13 16:03:56,507 - WARNING: closing unknown idle session /192.168.3.83:65206
+2024-06-13 16:03:56,510 - WARNING: closing unknown idle session /192.168.3.83:65173
+2024-06-13 16:03:56,510 - WARNING: closing unknown idle session /192.168.3.83:65203
+2024-06-13 16:03:57,500 - WARNING: closing unknown idle session /192.168.3.83:65279
+2024-06-13 16:03:57,501 - WARNING: closing unknown idle session /192.168.3.83:65264
+2024-06-13 16:03:57,501 - WARNING: closing unknown idle session /192.168.3.83:65273
+2024-06-13 16:03:57,501 - WARNING: closing unknown idle session /192.168.3.83:65270
+2024-06-13 16:03:57,501 - WARNING: closing unknown idle session /192.168.3.83:65267
+2024-06-13 16:03:57,501 - WARNING: closing unknown idle session /192.168.3.83:65276
+2024-06-13 16:03:57,501 - WARNING: closing unknown idle session /192.168.3.83:65261
+2024-06-13 16:03:57,520 - WARNING: closing unknown idle session /192.168.3.83:65275
+2024-06-13 16:03:57,520 - WARNING: closing unknown idle session /192.168.3.83:65263
+2024-06-13 16:03:57,520 - WARNING: closing unknown idle session /192.168.3.83:65260
+2024-06-13 16:03:57,520 - WARNING: closing unknown idle session /192.168.3.83:65272
+2024-06-13 16:03:57,520 - WARNING: closing unknown idle session /192.168.3.83:65278
+2024-06-13 16:03:57,520 - WARNING: closing unknown idle session /192.168.3.83:65266
+2024-06-13 16:03:57,520 - WARNING: closing unknown idle session /192.168.3.83:65269
+2024-06-13 16:03:57,528 - WARNING: closing unknown idle session /192.168.3.83:65268
+2024-06-13 16:03:57,528 - WARNING: closing unknown idle session /192.168.3.83:65277
+2024-06-13 16:03:57,528 - WARNING: closing unknown idle session /192.168.3.83:65259
+2024-06-13 16:03:57,528 - WARNING: closing unknown idle session /192.168.3.83:65262
+2024-06-13 16:03:57,528 - WARNING: closing unknown idle session /192.168.3.83:65274
+2024-06-13 16:03:57,528 - WARNING: closing unknown idle session /192.168.3.83:65271
+2024-06-13 16:03:57,528 - WARNING: closing unknown idle session /192.168.3.83:65265
+2024-06-13 16:13:04,563 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 16:13:04,579 - WARNING: Running with 100 CCU limit
+2024-06-13 16:13:21,532 - WARNING: closing unknown idle session /192.168.3.83:65383
+2024-06-13 16:18:24,742 - WARNING: closing unknown idle session /192.168.3.83:65455
+2024-06-13 16:19:44,401 - WARNING: closing unknown idle session /192.168.3.83:65473
+2024-06-13 17:33:33,948 - WARNING: URL:http://control.appwarp.shephertz.com:8080/policy?key=12345
+2024-06-13 17:33:35,280 - WARNING: responseCode:404
+2024-06-13 17:33:35,572 - WARNING: Error Response:{"error_reason":"license with given key not found","error_code":404}
+2024-06-13 18:02:13,879 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-13 18:02:13,890 - WARNING: Running with 100 CCU limit
+2024-06-13 18:12:13,891 - WARNING: URL:http://control.appwarp.shephertz.com:8080/policy?key=12345
+2024-06-13 18:12:14,966 - WARNING: responseCode:404
+2024-06-13 18:12:15,382 - WARNING: Error Response:{"error_reason":"license with given key not found","error_code":404}
+2024-06-14 09:54:50,681 - ERROR: Exception in acquire license java.io.FileNotFoundException: http://control.appwarp.shephertz.com:8080/acquire message http://control.appwarp.shephertz.com:8080/acquire
+2024-06-14 09:54:50,681 - WARNING: Running with 100 CCU limit
+2024-06-14 10:04:50,693 - WARNING: URL:http://control.appwarp.shephertz.com:8080/policy?key=12345
+2024-06-14 10:04:51,588 - WARNING: responseCode:404
+2024-06-14 10:04:51,874 - WARNING: Error Response:{"error_reason":"license with given key not found","error_code":404}
+2024-06-14 10:07:56,190 - WARNING: CCU :::: 2
+2024-06-14 10:07:56,191 - WARNING: Allowed CCUs ::::  2
+2024-06-14 10:07:56,191 - ERROR: Failed Auth. CCU Limit Reached
+2024-06-14 10:07:59,144 - WARNING: CCU :::: 2
+2024-06-14 10:07:59,144 - WARNING: Allowed CCUs ::::  2
+2024-06-14 10:07:59,144 - ERROR: Failed Auth. CCU Limit Reached
+2024-06-14 10:08:46,902 - WARNING: CCU :::: 2
+2024-06-14 10:08:46,903 - WARNING: Allowed CCUs ::::  2
+2024-06-14 10:08:46,903 - ERROR: Failed Auth. CCU Limit Reached
+2024-06-14 10:09:18,132 - WARNING: CCU :::: 2
+2024-06-14 10:09:18,132 - WARNING: Allowed CCUs ::::  2
+2024-06-14 10:09:18,133 - ERROR: Failed Auth. CCU Limit Reached
+2024-06-14 10:09:21,592 - WARNING: CCU :::: 2
+2024-06-14 10:09:21,593 - WARNING: Allowed CCUs ::::  2
+2024-06-14 10:09:21,593 - ERROR: Failed Auth. CCU Limit Reached
+2024-06-14 10:12:07,942 - WARNING: CCU :::: 2
+2024-06-14 10:12:07,942 - WARNING: Allowed CCUs ::::  2
+2024-06-14 10:12:07,943 - ERROR: Failed Auth. CCU Limit Reached
+2024-06-14 10:12:10,295 - WARNING: CCU :::: 2
+2024-06-14 10:12:10,296 - WARNING: Allowed CCUs ::::  2
+2024-06-14 10:12:10,296 - ERROR: Failed Auth. CCU Limit Reached
+2024-06-14 10:12:12,479 - WARNING: CCU :::: 2
+2024-06-14 10:12:12,479 - WARNING: Allowed CCUs ::::  2
+2024-06-14 10:12:12,479 - ERROR: Failed Auth. CCU Limit Reached
+2024-06-14 10:12:14,593 - WARNING: CCU :::: 2
+2024-06-14 10:12:14,593 - WARNING: Allowed CCUs ::::  2
+2024-06-14 10:12:14,593 - ERROR: Failed Auth. CCU Limit Reached
+2024-06-14 10:12:16,865 - WARNING: CCU :::: 2
+2024-06-14 10:12:16,866 - WARNING: Allowed CCUs ::::  2
+2024-06-14 10:12:16,866 - ERROR: Failed Auth. CCU Limit Reached
+2024-06-14 10:12:19,009 - WARNING: CCU :::: 2
+2024-06-14 10:12:19,009 - WARNING: Allowed CCUs ::::  2
+2024-06-14 10:12:19,009 - ERROR: Failed Auth. CCU Limit Reached
+2024-06-14 10:12:24,250 - WARNING: CCU :::: 2
+2024-06-14 10:12:24,251 - WARNING: Allowed CCUs ::::  2
+2024-06-14 10:12:24,251 - ERROR: Failed Auth. CCU Limit Reached
+2024-06-14 10:12:26,301 - WARNING: CCU :::: 2
+2024-06-14 10:12:26,301 - WARNING: Allowed CCUs ::::  2
+2024-06-14 10:12:26,301 - ERROR: Failed Auth. CCU Limit Reached

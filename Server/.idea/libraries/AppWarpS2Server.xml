@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="AppWarpS2Server">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AppWarpS2Server/logback-classic-1.0.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AppWarpS2Server/AppWarpApacheMina.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AppWarpS2Server/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AppWarpS2Server/logback-core-1.0.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AppWarpS2Server/AppWarpS2_2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AppWarpS2Server/hsqldb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AppWarpS2Server/slf4j-api-1.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AppWarpS2Server/spring-beans-3.2.0.M1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AppWarpS2Server/javassist-3.11.0.GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AppWarpS2Server/ognl-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AppWarpS2Server/tomcat-apr-5.5.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AppWarpS2Server/jzlib-1.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AppWarpS2Server/json-org.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
